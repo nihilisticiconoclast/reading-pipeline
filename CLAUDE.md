@@ -4,6 +4,7 @@ A weekly Claude Code routine that proposes book additions to `to-read.md`, biase
 
 ## Key files
 
+- `reading.md` — books currently being read
 - `read.md` — books read, with one-line verdicts
 - `owned.md` — full bookshelf catalogue (~210 titles)
 - `to-read.md` — suggestions queue; "Suggested by pipeline" section is auto-appended by the routine, "Manual additions" is edited by hand
