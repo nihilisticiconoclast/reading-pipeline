@@ -56,21 +56,48 @@ h1::after {
 
 ul { list-style: none; padding: 0; }
 
-li {
-  border-bottom: 1px solid var(--rule);
-  padding: 0.7em 0.6em;
-  transition: background 0.15s ease, padding-left 0.15s ease;
-}
-
-li:first-child { border-top: 1px solid var(--rule); }
-
-li:hover {
-  background: var(--accent-soft);
-  padding-left: 1em;
-}
-
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
+
+/* Week rows: a little shelf of cover thumbnails + label */
+.week { margin: 0; }
+
+.week-link {
+  display: flex;
+  align-items: center;
+  gap: 1.2em;
+  padding: 0.85em 0.9em;
+  border-bottom: 1px solid var(--rule);
+  border-radius: 8px;
+  color: var(--ink);
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.week:first-child .week-link { border-top: 1px solid var(--rule); }
+
+.week-link:hover {
+  background: var(--accent-soft);
+  text-decoration: none;
+  transform: translateX(4px);
+}
+
+.thumbs { flex: 0 0 auto; display: flex; }
+
+.thumbs img {
+  width: 40px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 2px;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.28);
+  margin-left: -12px;
+}
+
+.thumbs img:first-child { margin-left: 0; }
+
+.week-text { display: flex; flex-direction: column; line-height: 1.4; }
+.week-no { font-weight: bold; color: var(--accent); font-size: 1.05em; }
+.week-authors { color: var(--muted); font-size: 0.9em; font-style: italic; }
 
 /* ---- Digest pages ---- */
 
