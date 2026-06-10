@@ -29,4 +29,16 @@
   the form is genuinely strange — a way into poetry, which you own almost
   none of, without leaving the invariants behind.
 
+### 2026-W22
+
+**Highbrow**
+- **Pedro Páramo** — Juan Rulfo (1955). The fractured, time-collapsing ghost-town novel that made magical realism possible; the source text of the translated Latin American fiction the shelves lack.
+- **The Dispossessed** — Ursula K. Le Guin (1974). An "ambiguous utopia" that runs an anarchist moon against its capitalist twin; New Wave SF as political philosophy.
+- **The Dawn of Everything** — David Graeber & David Wengrow (2021). A rigorous archaeological demolition of the standard "farming gave us hierarchy" story of civilisation.
+
+**Lowbrow**
+- **Project Hail Mary** — Andy Weir (2021). A lone amnesiac astronaut solves his way out one physics problem at a time; comfort SF whose engine is competence, not sentiment.
+- **Tinker Tailor Soldier Spy** — John le Carré (1974). Smiley hunts a mole at the top of the Circus; the definitive le Carré and not yet on the shelf.
+- **Guards! Guards!** — Terry Pratchett (1989). The Night Watch debut; the best entry point to Discworld's City Watch and a gap in a deep Pratchett shelf.
+
 ## Manual additions
