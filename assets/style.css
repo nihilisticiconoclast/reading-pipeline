@@ -64,9 +64,9 @@ a:hover { text-decoration: underline; }
 
 .week-link {
   display: flex;
-  align-items: center;
-  gap: 1.2em;
-  padding: 0.85em 0.9em;
+  flex-direction: column;
+  gap: 0.55em;
+  padding: 0.95em 0.9em;
   border-bottom: 1px solid var(--rule);
   border-radius: 8px;
   color: var(--ink);
@@ -81,23 +81,19 @@ a:hover { text-decoration: underline; }
   transform: translateX(4px);
 }
 
-.thumbs { flex: 0 0 auto; display: flex; }
-
-.thumbs img {
-  width: 40px;
-  height: 60px;
-  object-fit: cover;
-  border-radius: 2px;
-  border: 2px solid #fff;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.28);
-  margin-left: -12px;
-}
-
-.thumbs img:first-child { margin-left: 0; }
-
 .week-text { display: flex; flex-direction: column; line-height: 1.4; }
 .week-no { font-weight: bold; color: var(--accent); font-size: 1.05em; }
 .week-authors { color: var(--muted); font-size: 0.9em; font-style: italic; }
+
+.thumbs { display: flex; gap: 5px; margin-top: 0.15em; }
+
+.thumbs img {
+  width: 30px;
+  height: 45px;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.22);
+}
 
 /* ---- Digest pages ---- */
 
