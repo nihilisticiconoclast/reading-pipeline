@@ -102,17 +102,36 @@ a:hover { text-decoration: underline; }
   border-bottom: 2px solid var(--accent);
 }
 
-.group h3 {
-  font-size: 1.08em;
-  font-weight: bold;
-  color: var(--ink);
-  margin-top: 1.5em;
-  padding-left: 0.7em;
+.book {
+  display: flex;
+  gap: 1.1em;
+  align-items: flex-start;
+  margin-top: 1.7em;
   border-left: 3px solid var(--accent);
+  padding-left: 1em;
 }
 
-.group p {
-  margin: 0.4em 0 0 0.7em;
+.cover {
+  flex: 0 0 auto;
+  width: 76px;
+  height: 114px;
+  object-fit: cover;
+  border-radius: 3px;
+  background: var(--accent-soft);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+}
+
+.book .meta { flex: 1; min-width: 0; }
+
+.book h3 {
+  font-size: 1.06em;
+  font-weight: bold;
+  color: var(--ink);
+  margin: 0 0 0.3em;
+}
+
+.book .meta p {
+  margin: 0;
   color: #3a362f;
 }
 

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="114" viewBox="0 0 76 114">
+  <rect width="76" height="114" rx="3" fill="#ece8df"/>
+  <rect x="0" y="0" width="6" height="114" rx="3" fill="#d8d2c5"/>
+  <g fill="none" stroke="#b9b2a3" stroke-width="2">
+    <rect x="22" y="38" width="32" height="40" rx="2"/>
+    <line x1="22" y1="50" x2="54" y2="50"/>
+  </g>
+  <text x="41" y="98" font-family="Georgia, serif" font-size="8" fill="#a39c8c" text-anchor="middle">no cover</text>
+</svg>
