@@ -12,6 +12,21 @@
   max-width: 720px;
   margin: 0 auto;
   padding-top: clamp(40px, 7vw, 72px);
+  position: relative;          /* anchors the per-page doodle into the gutter */
+}
+
+/* the per-page doodle: a margin decoration, NOT a section of its own. Pulled out
+   of flow and tucked into the right gutter, behind the content, so it never adds
+   an empty band, shoves the page around, or fights the text. */
+.doodle {
+  position: absolute;
+  top: clamp(72px, 10vw, 120px);
+  right: 0;
+  width: clamp(140px, 18vw, 260px);
+  margin: 0;
+  opacity: .6;
+  z-index: -1;
+  pointer-events: none;
 }
 
 /* masthead — the fixed house mark beside the wordmark, a colophon not a hero */
