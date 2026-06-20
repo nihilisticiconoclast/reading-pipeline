@@ -1,169 +1,137 @@
-:root {
-  --bg: #faf8f3;
-  --panel: #ffffff;
-  --ink: #201e1a;
-  --muted: #8a857c;
-  --rule: #e7e2d8;
-  --accent: #3a4f7a;        /* default + highbrow: deep indigo */
-  --accent-amber: #c0762e;  /* lowbrow: warm amber */
-  --accent-soft: #eef0f6;
-}
+/* ─────────────────────────────────────────────────────────────────────────
+   Reading Pipeline — PAGE LAYER for the "Tunnel" house aesthetic.
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-body {
-  font-family: Georgia, 'Times New Roman', serif;
-  font-size: 18px;
-  line-height: 1.75;
-  color: var(--ink);
-  background:
-    radial-gradient(120% 60% at 50% 0%, #fffdf8 0%, var(--bg) 60%) fixed;
-  padding: 0 20px 96px;
-}
+   The locked identity (palette, type, hard edges, the .sig / .doodle figures)
+   comes from cuddly-lamp's tokens.css, linked in each page's <head>. This file
+   never restates the palette or the typefaces — it only lays out the pieces
+   specific to the reading lists. Cartography × phase-space: paper, ink, hairline
+   contours, teal links, no shadows, no gradients, square corners.
+   ───────────────────────────────────────────────────────────────────────── */
 
 .container {
-  max-width: 680px;
+  max-width: 720px;
   margin: 0 auto;
-  padding-top: 56px;
+  padding-top: clamp(40px, 7vw, 72px);
 }
 
-h1 {
-  font-size: 1.9em;
-  font-weight: normal;
-  letter-spacing: -0.015em;
-  color: var(--ink);
-  margin-bottom: 0.15em;
+/* masthead — the fixed house mark beside the wordmark, a colophon not a hero */
+.masthead {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 28px;
+}
+.masthead .wordmark {
+  font-family: var(--font-data);
+  font-size: .72rem;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--contour);
+  line-height: 1.4;
 }
 
-h1::after {
-  content: "";
-  display: block;
-  width: 64px;
-  height: 4px;
-  margin-top: 0.4em;
-  border-radius: 2px;
-  background: linear-gradient(90deg, var(--accent), var(--accent-amber));
-}
-
+/* title: Fraunces from tokens; a hairline isoline stands in for the old underline */
+h1 { margin-bottom: .15em; }
 .subtitle {
-  color: var(--muted);
-  font-size: 0.92em;
-  font-style: italic;
-  margin-bottom: 2.4em;
+  font-family: var(--font-data);
+  font-size: .82rem;
+  letter-spacing: .02em;
+  color: var(--contour);
+  margin: 0 0 2.4em;
 }
 
-/* ---- Home page: list of weeks ---- */
-
-ul { list-style: none; padding: 0; }
-
-a { color: var(--accent); text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-/* Week rows: a little shelf of cover thumbnails + label */
+/* ── home page: the list of weeks ──────────────────────────────────────── */
+ul { list-style: none; padding: 0; margin: 0; }
 .week { margin: 0; }
 
 .week-link {
   display: flex;
   flex-direction: column;
-  gap: 0.55em;
-  padding: 0.95em 0.9em;
-  border-bottom: 1px solid var(--rule);
-  border-radius: 8px;
+  gap: .55em;
+  padding: 1em .2em;
+  border-bottom: var(--rule);            /* the divider reads as a contour line */
   color: var(--ink);
-  transition: background 0.15s ease, transform 0.15s ease;
-}
-
-.week:first-child .week-link { border-top: 1px solid var(--rule); }
-
-.week-link:hover {
-  background: var(--accent-soft);
   text-decoration: none;
-  transform: translateX(4px);
+  transition: background .15s ease;
 }
+.week:first-child .week-link { border-top: var(--rule); }
+.week-link:hover { background: color-mix(in srgb, var(--index) 7%, var(--paper)); }
+.week-link:hover .week-no { color: var(--route); }   /* the single red accent, on hover only */
 
 .week-text { display: flex; flex-direction: column; line-height: 1.4; }
-.week-no { font-weight: bold; color: var(--accent); font-size: 1.05em; }
-.week-authors { color: var(--muted); font-size: 0.9em; font-style: italic; }
+.week-no {
+  font-family: var(--font-data);
+  font-weight: 600;
+  letter-spacing: .04em;
+  color: var(--index);
+  font-size: .95rem;
+}
+.week-authors {
+  font-family: var(--font-body);
+  color: var(--contour);
+  font-size: .9rem;
+}
 
-.thumbs { display: flex; gap: 5px; margin-top: 0.15em; }
-
+.thumbs { display: flex; gap: 5px; margin-top: .15em; }
 .thumbs img {
   width: 30px;
   height: 45px;
   object-fit: cover;
-  border-radius: 2px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.22);
+  border-radius: 0;
+  border: 1px solid color-mix(in srgb, var(--contour) 45%, transparent);
 }
 
-/* ---- Digest pages ---- */
-
+/* ── digest pages ──────────────────────────────────────────────────────── */
 .strategy {
-  background: var(--panel);
-  border: 1px solid var(--rule);
-  border-left: 4px solid var(--accent);
-  border-radius: 6px;
+  border: var(--rule);
+  border-left: 3px solid var(--index);
   padding: 1em 1.3em;
-  margin: 1.5em 0 2.2em;
-  font-size: 0.95em;
-  color: #4a463f;
-  font-style: italic;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+  margin: 1.6em 0 2.4em;
+  font-size: .95rem;
+  color: color-mix(in srgb, var(--ink) 88%, transparent);
 }
 
 .group { margin-top: 2.6em; }
-.group.highbrow { --accent: #3a4f7a; }
-.group.lowbrow  { --accent: var(--accent-amber); }
-
 .group h2 {
-  font-size: 0.78em;
-  font-weight: bold;
+  font-family: var(--font-data);
+  font-size: .74rem;
+  font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--accent);
-  margin-bottom: 0.2em;
-  padding-bottom: 0.45em;
-  border-bottom: 2px solid var(--accent);
+  letter-spacing: .16em;
+  color: var(--contour);
+  margin-bottom: .2em;
+  padding-bottom: .5em;
+  border-bottom: var(--rule);
 }
+/* highbrow vs lowbrow: differentiated by the index-contour weight of the spine,
+   never by colour temperature — amber stays reserved for the figures */
+.group.highbrow .book { border-left-color: var(--index); }
+.group.lowbrow  .book { border-left-color: var(--contour); }
 
 .book {
   display: flex;
   gap: 1.1em;
   align-items: flex-start;
-  margin-top: 1.7em;
-  border-left: 3px solid var(--accent);
-  padding-left: 1em;
+  margin-top: 1.8em;
+  border-left: 3px solid var(--contour);
+  padding-left: 1.1em;
 }
-
 .cover {
   flex: 0 0 auto;
   width: 76px;
   height: 114px;
   object-fit: cover;
-  border-radius: 3px;
-  background: var(--accent-soft);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  border-radius: 0;
+  background: color-mix(in srgb, var(--index) 7%, var(--paper));
+  border: 1px solid color-mix(in srgb, var(--contour) 45%, transparent);
 }
-
 .book .meta { flex: 1; min-width: 0; }
-
-.book h3 {
-  font-size: 1.06em;
-  font-weight: bold;
-  color: var(--ink);
-  margin: 0 0 0.3em;
-}
-
-.book .meta p {
-  margin: 0;
-  color: #3a362f;
-}
-
-p { margin-bottom: 0.8em; }
+.book h3 { font-size: 1.2rem; margin: 0 0 .3em; }
+.book .meta p { margin: 0; color: color-mix(in srgb, var(--ink) 90%, transparent); }
 
 .back {
   display: inline-block;
   margin-top: 3.5em;
-  font-size: 0.85em;
-  color: var(--muted);
+  font-family: var(--font-data);
+  font-size: .82rem;
 }
-.back:hover { color: var(--accent); text-decoration: none; }

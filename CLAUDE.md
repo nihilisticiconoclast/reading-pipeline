@@ -53,6 +53,28 @@ shard hostnames vary per file), and the shared egress IP gets rate-limited
 week 2026-25 stuck on placeholders); fetching where the network is open fixes
 it for good.
 
+## Page aesthetic (Tunnel)
+
+`index.html` and every `digest/YYYY-WW.html` use the in-house **Tunnel** visual
+identity. The locked layer (palette, type, hard edges, the signature figures) is
+**linked from cuddly-lamp's CDN, never inlined**; page-specific layout lives in
+`assets/style.css`. When the weekly routine writes a new digest it must emit the
+same scaffold:
+
+- In `<head>`, before `assets/style.css`:
+  `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tokens.css">`
+- `<body data-seed="reading-pipeline-YYYY-WW">` and, at the top of `.container`,
+  a `.masthead` holding `<span class="sig" id="sig"></span>` (the fixed house mark).
+- A `<div class="doodle doodle--right doodle--bleed-right" id="doodle"></div>`
+  between the last section and the `← All weeks` link.
+- Before `</body>`, the CDN
+  `assets/tunnel-figure.js` script plus the init that fills `#sig` with
+  `variant: 'mark'` and `#doodle` with `variant: 'doodle'` (seeded from the page).
+
+Never paste `tokens.css` or `tunnel-figure.js` into a page — link the one hosted
+copy so a style change in cuddly-lamp propagates everywhere. See
+`.claude/skills/tunnel-aesthetic/SKILL.md`.
+
 ## GitHub Pages
 
 Live at: https://nihilisticiconoclast.github.io/reading-pipeline/

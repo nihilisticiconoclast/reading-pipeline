@@ -4,10 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Reading Pipeline — Week 2026-25</title>
+  <!-- LOCKED LAYER — the "Tunnel" tokens, linked from cuddly-lamp (never inlined) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tokens.css">
   <link rel="stylesheet" href="../assets/style.css">
 </head>
-<body>
+<body data-seed="reading-pipeline-2026-25">
   <div class="container">
+    <div class="masthead">
+      <span class="sig" id="sig"></span>
+      <span class="wordmark">Reading Pipeline<br>weekly digest</span>
+    </div>
     <h1>Week 2026-25</h1>
     <p class="subtitle">Recommendations for the week of 15 June 2026.</p>
 
@@ -63,7 +69,21 @@
       </div>
     </section>
 
+    <!-- per-page doodle: a seeded scribble, off to the right, between sections -->
+    <div class="doodle doodle--right doodle--bleed-right" id="doodle"></div>
+
     <a class="back" href="../index.html">← All weeks</a>
   </div>
+
+  <!-- the signature generator: FIXED house mark + a per-page doodle. Linked from
+       the CDN, never inlined, so the figure logic stays in lock-step with the tokens -->
+  <script src="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tunnel-figure.js"></script>
+  <script>
+    (function () {
+      var seed = document.body.dataset.seed || location.pathname || document.title;
+      document.getElementById('sig').innerHTML = TunnelFigure.tunnelFigureSVG(null, { variant: 'mark' });
+      document.getElementById('doodle').innerHTML = TunnelFigure.tunnelFigureSVG(seed, { variant: 'doodle' });
+    })();
+  </script>
 </body>
 </html>
