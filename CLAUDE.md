@@ -20,6 +20,21 @@ A remote Claude Code agent runs every Monday at 8am London time. It reads `readi
 Routine ID: `trig_01QGVuLXj9W6EJCkWjBXtYcs`
 Manage at: https://claude.ai/code/routines/trig_01QGVuLXj9W6EJCkWjBXtYcs
 
+## Book covers
+
+Each digest book shows a cover thumbnail from `assets/covers/<slug>.jpg`, with
+`onerror` falling back to `assets/covers/placeholder.svg`. Covers are fetched
+from the Open Library Covers API by `scripts/fetch-covers.sh` (re-runnable;
+skips covers already present). The digest/index `<img>` tags should reference
+the real `<slug>.jpg` filename even before the image exists — the placeholder
+fallback handles the gap, and the cover appears automatically once fetched.
+
+**Network egress requirement:** cover fetching needs the environment's egress
+allowlist to include `openlibrary.org` and `covers.openlibrary.org`. Without
+them the proxy returns `403 host_not_allowed` and every book falls back to the
+placeholder (this is what happened in week 2026-25). Egress is loaded at
+container start, so allowlist changes only take effect in a *new* session/run.
+
 ## GitHub Pages
 
 Live at: https://nihilisticiconoclast.github.io/reading-pipeline/
