@@ -1,0 +1,46 @@
+name: Fetch book covers
+
+# Cover images are fetched here, on a GitHub-hosted runner, because the weekly
+# Claude Code routine runs in a network-restricted container that cannot reach
+# the cover storage backends. The runner has unrestricted internet, so this is
+# the reliable place to do it. New covers are committed straight back to main;
+# the digest pages show placeholder.svg until the image lands.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'digest/**'
+      - 'scripts/fetch-covers.sh'
+      - '.github/workflows/covers.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '30 8 * * 1'   # Mondays 08:30 UTC, just after the weekly routine
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-covers
+  cancel-in-progress: false
+
+jobs:
+  covers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch missing covers
+        run: bash scripts/fetch-covers.sh || echo "::warning::some covers could not be fetched"
+
+      - name: Commit new covers
+        run: |
+          if [ -n "$(git status --porcelain assets/covers)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/covers
+            git commit -m "Add book covers fetched from Open Library / Google Books"
+            git push
+          else
+            echo "No new covers to commit."
+          fi

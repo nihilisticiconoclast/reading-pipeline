@@ -23,17 +23,35 @@ Manage at: https://claude.ai/code/routines/trig_01QGVuLXj9W6EJCkWjBXtYcs
 ## Book covers
 
 Each digest book shows a cover thumbnail from `assets/covers/<slug>.jpg`, with
-`onerror` falling back to `assets/covers/placeholder.svg`. Covers are fetched
-from the Open Library Covers API by `scripts/fetch-covers.sh` (re-runnable;
-skips covers already present). The digest/index `<img>` tags should reference
-the real `<slug>.jpg` filename even before the image exists — the placeholder
-fallback handles the gap, and the cover appears automatically once fetched.
+`onerror` falling back to `assets/covers/placeholder.svg`. The digest/index
+`<img>` tags should reference the real `<slug>.jpg` filename even before the
+image exists — the placeholder fallback handles the gap, and the cover appears
+automatically once fetched.
 
-**Network egress requirement:** cover fetching needs the environment's egress
-allowlist to include `openlibrary.org` and `covers.openlibrary.org`. Without
-them the proxy returns `403 host_not_allowed` and every book falls back to the
-placeholder (this is what happened in week 2026-25). Egress is loaded at
-container start, so allowlist changes only take effect in a *new* session/run.
+**Covers are fetched in CI, not in the Claude container.** The workflow
+`.github/workflows/covers.yml` runs `scripts/fetch-covers.sh` on a
+GitHub-hosted runner (which has unrestricted internet) and commits any new
+covers straight back to `main`. It triggers on pushes that touch `digest/**`
+or the script, on a Monday schedule just after the weekly routine, and via
+manual `workflow_dispatch`. So the routine just needs to write the digest with
+the right `<slug>.jpg` references; the cover appears within a minute or two.
+
+`scripts/fetch-covers.sh` auto-discovers the books straight from the digest
+pages (pairing each `assets/covers/<slug>.jpg` with the following
+`<h3>Title — Author (Year)</h3>`), so there is no list to maintain. It tries
+Open Library first, then Google Books, follows redirects, and skips covers
+already present (safe to re-run). To fetch covers for a new digest, just push
+the digest — CI does the rest. You can also trigger a run manually from the
+Actions tab.
+
+**Why CI and not the container:** the weekly routine runs in a
+network-restricted container. Cover hosts redirect bytes through storage
+backends that aren't on the egress allowlist
+(`covers.openlibrary.org` → `archive.org` → `iaNNN.us.archive.org`, whose
+shard hostnames vary per file), and the shared egress IP gets rate-limited
+(HTTP 429). Chasing allowlist entries was a losing game (this is what kept
+week 2026-25 stuck on placeholders); fetching where the network is open fixes
+it for good.
 
 ## GitHub Pages
 
