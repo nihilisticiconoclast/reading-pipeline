@@ -73,28 +73,39 @@ discover_books() {
   ' digest/*.html | sort -u
 }
 
-# Resolve a cover image URL from Open Library (cover id, then ISBN).
+# Resolve a cover image URL from Open Library. Tries progressively looser
+# queries — exact title+author, then with the subtitle dropped, then a single
+# combined free-text query — so subtitles and transliterated authors don't
+# cause a miss. First query that yields a cover id or ISBN wins.
 url_openlibrary() {
-  local title="$1" author="$2" meta cid isbn
-  meta=$(curl -fsSL -m 30 -A "$UA" \
-    "https://openlibrary.org/search.json?title=$(urlencode "$title")&author=$(urlencode "$author")&limit=1&fields=cover_i,isbn" \
-    2>/dev/null) || return 1
-  cid=$(jq -r '.docs[0].cover_i // empty' <<<"$meta")
-  isbn=$(jq -r '.docs[0].isbn[0] // empty' <<<"$meta")
-  if   [ -n "$cid"  ]; then echo "https://covers.openlibrary.org/b/id/${cid}-L.jpg"
-  elif [ -n "$isbn" ]; then echo "https://covers.openlibrary.org/b/isbn/${isbn}-L.jpg"
-  fi
+  local title="$1" author="$2" bare="${1%%:*}" q meta cid isbn
+  for q in \
+    "title=$(urlencode "$title")&author=$(urlencode "$author")" \
+    "title=$(urlencode "$bare")&author=$(urlencode "$author")" \
+    "q=$(urlencode "$title $author")"; do
+    meta=$(curl -fsSL -m 30 -A "$UA" \
+      "https://openlibrary.org/search.json?$q&limit=1&fields=cover_i,isbn" 2>/dev/null) || continue
+    cid=$(jq -r '.docs[0].cover_i // empty' <<<"$meta")
+    isbn=$(jq -r '.docs[0].isbn[0] // empty' <<<"$meta")
+    if   [ -n "$cid"  ]; then echo "https://covers.openlibrary.org/b/id/${cid}-L.jpg"; return
+    elif [ -n "$isbn" ]; then echo "https://covers.openlibrary.org/b/isbn/${isbn}-L.jpg"; return
+    fi
+  done
 }
 
-# Resolve a cover image URL from Google Books.
+# Resolve a cover image URL from Google Books. Tries a structured
+# intitle/inauthor query (subtitle dropped) then a combined free-text query.
 url_googlebooks() {
-  local title="$1" author="$2" meta url
-  meta=$(curl -fsSL -m 30 -A "$UA" \
-    "https://www.googleapis.com/books/v1/volumes?q=$(urlencode "intitle:$title inauthor:$author")&maxResults=1&country=US" \
-    2>/dev/null) || return 1
-  url=$(jq -r '.items[0].volumeInfo.imageLinks.thumbnail
-            // .items[0].volumeInfo.imageLinks.smallThumbnail // empty' <<<"$meta")
-  [ -n "$url" ] && echo "${url/http:/https:}"   # force https
+  local title="$1" author="$2" bare="${1%%:*}" q meta url
+  for q in \
+    "$(urlencode "intitle:$bare inauthor:$author")" \
+    "$(urlencode "$title $author")"; do
+    meta=$(curl -fsSL -m 30 -A "$UA" \
+      "https://www.googleapis.com/books/v1/volumes?q=$q&maxResults=1&country=US" 2>/dev/null) || continue
+    url=$(jq -r '.items[0].volumeInfo.imageLinks.thumbnail
+              // .items[0].volumeInfo.imageLinks.smallThumbnail // empty' <<<"$meta")
+    [ -n "$url" ] && { echo "${url/http:/https:}"; return; }   # force https
+  done
 }
 
 BOOKS="$(discover_books)"
