@@ -78,7 +78,7 @@ discover_books() {
 # combined free-text query — so subtitles and transliterated authors don't
 # cause a miss. First query that yields a cover id or ISBN wins.
 url_openlibrary() {
-  local title="$1" author="$2" bare="${1%%:*}" q meta cid isbn
+  local title="$1" author="$2" bare="${1%%:*}" q meta cid isbn fallback=""
   for q in \
     "title=$(urlencode "$title")&author=$(urlencode "$author")" \
     "title=$(urlencode "$bare")&author=$(urlencode "$author")" \
@@ -86,11 +86,15 @@ url_openlibrary() {
     meta=$(curl -fsSL -m 30 -A "$UA" \
       "https://openlibrary.org/search.json?$q&limit=1&fields=cover_i,isbn" 2>/dev/null) || continue
     cid=$(jq -r '.docs[0].cover_i // empty' <<<"$meta")
-    isbn=$(jq -r '.docs[0].isbn[0] // empty' <<<"$meta")
-    if   [ -n "$cid"  ]; then echo "https://covers.openlibrary.org/b/id/${cid}-L.jpg"; return
-    elif [ -n "$isbn" ]; then echo "https://covers.openlibrary.org/b/isbn/${isbn}-L.jpg"; return
+    # A cover id from any query beats an ISBN: ISBN lookups often resolve to a
+    # blank placeholder image (which the size check then rejects).
+    [ -n "$cid" ] && { echo "https://covers.openlibrary.org/b/id/${cid}-L.jpg?default=false"; return; }
+    if [ -z "$fallback" ]; then
+      isbn=$(jq -r '.docs[0].isbn[0] // empty' <<<"$meta")
+      [ -n "$isbn" ] && fallback="https://covers.openlibrary.org/b/isbn/${isbn}-L.jpg?default=false"
     fi
   done
+  [ -n "$fallback" ] && echo "$fallback"
 }
 
 # Resolve a cover image URL from Google Books. Tries a structured
