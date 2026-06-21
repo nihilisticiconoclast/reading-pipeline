@@ -40,7 +40,7 @@ Reference the one hosted copy so a style update propagates everywhere:
 
 <!-- the fixed house logo + a per-page doodle -->
 <span class="sig" id="sig"></span>
-<div class="doodle doodle--right doodle--bleed-right" id="doodle"></div>
+<div class="doodle" id="doodle"></div>
 
 <!-- before </body> -->
 <script src="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tunnel-figure.js"></script>
@@ -50,6 +50,7 @@ Reference the one hosted copy so a style update propagates everywhere:
   var seed = document.body.dataset.seed || location.pathname || document.title;
   document.getElementById('doodle').innerHTML =
     TunnelFigure.tunnelFigureSVG(seed, { variant: 'doodle' });         // per-page, deterministic
+  TunnelFigure.placeDoodle(document.getElementById('doodle'));         // random edge slot, never fixed
 </script>
 ```
 
@@ -78,7 +79,10 @@ acid, not a rounded SaaS hero.
   ignored). Masthead/footer brand.
 - `doodle`: a DIFFERENT little scribble per page (seeded; stable on reload).
   Small, off-centre, between sections — never boxed, never captioned, never its
-  own section.
+  own section. Its POSITION must vary too: mount it with
+  `TunnelFigure.placeDoodle(el)`, which drops it into one of six edge slots
+  ({left,right} × {top,middle,bottom}) bleeding into the gutter, behind the
+  content — random, never a fixed spot, and never behind the text.
 - `background`: seeded contours-only watermark, faint but visible (use `.sig-bg`).
 - `full`: the explanatory figure (route + WKB inset + survey labels). Only on
   pages genuinely about terrain / sampling / optimisation / tunnelling.
@@ -92,8 +96,9 @@ alongside either. Seed `doodle`/`background`/`full` from the page slug/path/titl
 - Background `--paper`, text `--ink`; no white cards, no shadows.
 - Fonts are Fraunces / Public Sans / IBM Plex Mono only.
 - Exactly one red `--route` element; amber only in the figure; square corners.
-- Fixed `mark` logo in a corner/footer; any `doodle` small, off-centre, between
-  sections (not a hero, not full-width, not its own section).
+- Fixed `mark` logo in a corner/footer; any `doodle` small, off-centre, behind
+  content. Its position is set by `placeDoodle` (a random edge slot), never a
+  fixed corner, never directly behind the text.
 - Assets are **linked from the CDN, not inlined**.
 - No self-describing caption / physics labels on a content page (`full` only
   where the topic warrants it); labels real, copy precise.
