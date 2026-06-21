@@ -113,7 +113,23 @@
     (function () {
       var seed = document.body.dataset.seed || location.pathname || document.title;
       document.getElementById('sig').innerHTML = TunnelFigure.tunnelFigureSVG(null, { variant: 'mark' });
-      document.getElementById('doodle').innerHTML = TunnelFigure.tunnelFigureSVG(seed, { variant: 'doodle' });
+document.getElementById('doodle').innerHTML = TunnelFigure.tunnelFigureSVG(seed, { variant: 'doodle' });
+
+      // doodle position — random each load: one of six edge slots (left/right ×
+      // top/middle/bottom), bleeding into the gutter so it never sits behind the text.
+      (function (d) {
+        if (!d) return;
+        var side = Math.random() < 0.5 ? 'left' : 'right';
+        var vert = ['top', 'middle', 'bottom'][Math.floor(Math.random() * 3)];
+        d.style.top = d.style.bottom = d.style.left = d.style.right = 'auto';
+        var tx, ty = '';
+        if (side === 'left') { d.style.left = '0'; tx = 'translateX(-42%)'; }
+        else { d.style.right = '0'; tx = 'translateX(42%)'; }
+        if (vert === 'top') d.style.top = 'clamp(80px,12vh,140px)';
+        else if (vert === 'middle') { d.style.top = '50%'; ty = ' translateY(-50%)'; }
+        else d.style.bottom = 'clamp(40px,8vh,100px)';
+        d.style.transform = tx + ty;
+      })(document.getElementById('doodle'));
     })();
   </script>
 </body>
