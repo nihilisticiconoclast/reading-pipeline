@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W26
+
+**Highbrow**
+- **Averno** — Louise Glück (2006). The Nobel laureate's tightest book reworks the Persephone myth into eighteen austere, philosophically exact poems about death, descent, and a daughter's transit into adulthood; the classicist's rigour is real and the diction never consoles. A way into poetry — a near-empty shelf — without leaving the invariants behind.
+- **The Memory Police** — Yōko Ogawa (1994; Eng. trans. Stephen Snyder, 2019). On an unnamed island, objects and the memory of them vanish by decree while a secret police hunt those who still remember; a quiet, formally controlled dystopia in the register *We* and *Piranesi* sit near. Translated Japanese literary fiction — a tradition the shelves have only touched through crime — Booker International shortlisted.
+- **King Leopold's Ghost** — Adam Hochschild (1998). The looting of the Congo Free State and the first modern human-rights campaign reconstructed from the archive, with the same forensic patience as the best true crime; ideas-first about how mass atrocity gets organised, profited from, and then forgotten. Narrative history well outside the Greece/Rome and World-Wars veins, rigorous and unsparing.
+
+**Lowbrow**
+- **Rendezvous with Rama** — Arthur C. Clarke (1973). A fifty-kilometre cylinder enters the solar system and a crew is sent to explore it before it leaves; the whole book is one pure idea — the artefact itself — explored with engineer's cool and zero sentimentality. Hugo- and Nebula-winning comfort hard SF in the most well-loved vein.
+- **The Murder of Roger Ackroyd** — Agatha Christie (1926). The Golden-Age mystery whose solution is a structural trick so audacious it rewired the genre; the form is the payload, not the village setting. Comfort crime where the cleverness is in the architecture, not the gore.
+- **Slow Horses** — Mick Herron (2010). The washed-up rejects of MI5's "Slough House" stumble into a real operation; the contemporary heir to le Carré, but faster, funnier, and just as unsentimental about the trade. A lighter stretch in the spy vein — plot-driven, sharp, low effort.
+
 ### 2026-W25
 
 **Highbrow**
