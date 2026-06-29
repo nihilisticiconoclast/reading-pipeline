@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W27
+
+**Highbrow**
+- **Kindred** — Octavia Butler (1979). A modern Black woman is wrenched repeatedly back to an antebellum Maryland plantation, forced to keep her own white slaveholding ancestor alive long enough to be born; a neo-slave narrative welded to a time-travel premise, unsentimental about complicity and survival. The New Wave / literary SF the persona names by author — ideas-first, structurally strange, and a tradition the shelves don't yet hold.
+- **Poor Economics** — Abhijit Banerjee & Esther Duflo (2011). The Nobel laureates rebuild development economics from the ground up using randomised controlled trials, replacing grand ideology with what the evidence actually shows about hunger, schooling, and risk among the very poor. Rigorous, unsentimental narrative nonfiction in economics — a blind spot — and a working demonstration of inference under uncertainty that connects straight to the Bayesian interest.
+- **The Emergence of Probability** — Ian Hacking (1975). A philosophical history of how the very concept of probability — split at birth between degrees of belief and frequencies in the world — appeared almost from nowhere around 1660, and why that doubleness still haunts every argument about evidence. Philosophy of probability rather than applied statistics: a conceptual archaeology, ideas-first, that reframes what "uncertainty" even means.
+
+**Lowbrow**
+- **Smiley's People** — John le Carré (1979). A murdered émigré general pulls a retired Smiley back for one last move against Karla, and the hunt narrows to a single human weakness in the enemy; the closing of the Karla trilogy and the coldest, most patient of the chess games. Comfort spy fiction in the most well-loved vein, completing a sequence the shelves have already started.
+- **The Stars My Destination** — Alfred Bester (1956). A nobody left to die in deep space teleports himself across a solar system that has just learned to "jaunt", driven by a revenge so total it reorganises civilisation; The Count of Monte Cristo rebuilt as pulp metaphysics, complete with typographic fireworks. Classic SF that is pure propulsive fun yet genuinely formally strange — comfort with teeth.
+- **The Daughter of Time** — Josephine Tey (1951). A detective flat on his back in hospital, bored to madness, reopens the cold case of whether Richard III really murdered the Princes in the Tower — and dismantles five centuries of received history from his pillow. A Golden-Age mystery with no action at all, only the pleasure of evidence weighed against legend; voted the greatest crime novel ever written.
+
 ### 2026-W26
 
 **Highbrow**

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reading Pipeline — Week 2026-27</title>
+  <!-- LOCKED LAYER — the "Tunnel" tokens, linked from cuddly-lamp (never inlined) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tokens.css">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-seed="reading-pipeline-2026-27">
+  <div class="container">
+    <div class="masthead">
+      <span class="sig" id="sig"></span>
+      <span class="wordmark">Reading Pipeline<br>weekly digest</span>
+    </div>
+    <h1>Week 2026-27</h1>
+    <p class="subtitle">Recommendations for the week of 29 June 2026.</p>
+
+    <p class="strategy">After several weeks heavy on translated literary fiction and poetry, this week spreads the highbrow picks across three fresh edges: the literary / New Wave SF the persona names by author (Butler), narrative nonfiction in economics — a genuine blind spot — and the philosophy of probability rather than the applied statistics that counts as study, not leisure. The comfort picks hold the most well-loved territory — the spy thriller, classic SF and Golden-Age crime — but each is a non-owned book whose pleasure is a clean idea or a clever structure rather than sentiment: a trilogy-closing Smiley, a revenge novel that detonates its own typography, and a mystery solved entirely from a hospital bed.</p>
+
+    <section class="group highbrow">
+      <h2>Highbrow</h2>
+      <div class="book">
+        <img class="cover" src="../assets/covers/kindred.jpg" alt="Cover of Kindred" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Kindred — Octavia Butler (1979)</h3>
+          <p>A modern Black woman is wrenched repeatedly back to an antebellum plantation, forced to keep her own white slaveholding ancestor alive long enough to be born — a neo-slave narrative welded to a time-travel premise and unsentimental about complicity and survival. The New Wave / literary SF the persona names by author: ideas-first, structurally strange, and a tradition the shelves don't yet hold.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/poor-economics.jpg" alt="Cover of Poor Economics" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Poor Economics — Abhijit Banerjee &amp; Esther Duflo (2011)</h3>
+          <p>The Nobel laureates rebuild development economics from the ground up using randomised controlled trials, replacing grand ideology with what the evidence actually shows about hunger, schooling and risk among the very poor. Rigorous, unsentimental narrative nonfiction in economics — a blind spot — and a working demonstration of inference under uncertainty that connects straight to the Bayesian interest.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/the-emergence-of-probability.jpg" alt="Cover of The Emergence of Probability" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>The Emergence of Probability — Ian Hacking (1975)</h3>
+          <p>A philosophical history of how the very concept of probability — split at birth between degrees of belief and frequencies in the world — appeared almost from nowhere around 1660, and why that doubleness still haunts every argument about evidence. Philosophy of probability rather than applied statistics: a conceptual archaeology, ideas-first, that reframes what <em>uncertainty</em> even means.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="group lowbrow">
+      <h2>Lowbrow</h2>
+      <div class="book">
+        <img class="cover" src="../assets/covers/smiley-s-people.jpg" alt="Cover of Smiley's People" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Smiley's People — John le Carré (1979)</h3>
+          <p>A murdered émigré general pulls a retired Smiley back for one last move against Karla, and the hunt narrows to a single human weakness in the enemy — the closing of the Karla trilogy and the coldest, most patient of the chess games. Comfort spy fiction in the most well-loved vein, completing a sequence the shelves have already started.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/the-stars-my-destination.jpg" alt="Cover of The Stars My Destination" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>The Stars My Destination — Alfred Bester (1956)</h3>
+          <p>A nobody left to die in deep space teleports himself across a solar system that has just learned to "jaunt", driven by a revenge so total it reorganises civilisation — <em>The Count of Monte Cristo</em> rebuilt as pulp metaphysics, complete with typographic fireworks. Classic SF that is pure propulsive fun yet genuinely formally strange: comfort with teeth.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/the-daughter-of-time.jpg" alt="Cover of The Daughter of Time" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>The Daughter of Time — Josephine Tey (1951)</h3>
+          <p>A detective flat on his back in hospital, bored to madness, reopens the cold case of whether Richard III really murdered the Princes in the Tower — and dismantles five centuries of received history from his pillow. A Golden-Age mystery with no action at all, only the pleasure of evidence weighed against legend; voted the greatest crime novel ever written.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- per-page doodle: a seeded scribble, off to the right, between sections -->
+    <div class="doodle doodle--right doodle--bleed-right" id="doodle"></div>
+
+    <a class="back" href="../index.html">← All weeks</a>
+  </div>
+
+  <!-- the signature generator: FIXED house mark + a per-page doodle. Linked from
+       the CDN, never inlined, so the figure logic stays in lock-step with the tokens -->
+  <script src="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tunnel-figure.js"></script>
+  <script>
+    (function () {
+      var seed = document.body.dataset.seed || location.pathname || document.title;
+      document.getElementById('sig').innerHTML = TunnelFigure.tunnelFigureSVG(null, { variant: 'mark' });
+document.getElementById('doodle').innerHTML = TunnelFigure.tunnelFigureSVG(seed, { variant: 'doodle' });
+
+      // doodle position — random each load: one of six edge slots (left/right ×
+      // top/middle/bottom), bleeding into the gutter so it never sits behind the text.
+      (function (d) {
+        if (!d) return;
+        var side = Math.random() < 0.5 ? 'left' : 'right';
+        var vert = ['top', 'middle', 'bottom'][Math.floor(Math.random() * 3)];
+        d.style.top = d.style.bottom = d.style.left = d.style.right = 'auto';
+        var tx, ty = '';
+        if (side === 'left') { d.style.left = '0'; tx = 'translateX(-42%)'; }
+        else { d.style.right = '0'; tx = 'translateX(42%)'; }
+        if (vert === 'top') d.style.top = 'clamp(80px,12vh,140px)';
+        else if (vert === 'middle') { d.style.top = '50%'; ty = ' translateY(-50%)'; }
+        else d.style.bottom = 'clamp(40px,8vh,100px)';
+        d.style.transform = tx + ty;
+      })(document.getElementById('doodle'));
+    })();
+  </script>
+</body>
+</html>
