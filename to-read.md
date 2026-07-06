@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W28
+
+**Highbrow**
+- **The Vegetarian** — Han Kang (2007; Eng. trans. Deborah Smith, 2015). A Korean woman's quiet refusal to eat meat metastasises into a total renunciation of the human, told in three panels by everyone around her except herself; a cold, formally split parable about bodily autonomy and complicity. Man Booker International winner — translated Korean literary fiction, a region the shelves have never touched, ideas-first and unsentimental.
+- **The Spirit Catches You and You Fall Down** — Anne Fadiman (1997). A Hmong toddler's epilepsy becomes a collision between a Californian hospital and a refugee family who read her seizures as a soul taking flight; each chapter braids the clinical record against Hmong cosmology without ever taking a side. Rigorous medical anthropology, National Book Critics Circle winner — narrative nonfiction well outside the existing domains.
+- **Solaris** — Stanisław Lem (1961; Eng. trans.). A sentient ocean-planet answers human study by resurrecting the researchers' buried guilt in living flesh, and the "science" of Solaristics collapses into a mirror; New Wave SF as an argument that true contact — real knowledge of the alien — may be impossible. The translated, ideas-first speculative register the persona names by author (Lem).
+
+**Lowbrow**
+- **Mort** — Terry Pratchett (1987). Death takes on a gawky apprentice, then develops a taste for cocktails and cats while the boy botches an assassination he was meant to allow — and the Disc's causality starts to buckle. Discworld at its most charming on mortality and fate; a standalone gap in a deep Pratchett shelf.
+- **The Hollow Man** — John Dickson Carr (1935). Two impossible murders — a man shot in a locked room, another on an empty snow-covered street with no footprints — and a detective who pauses mid-book to lecture on exactly how locked-room tricks are built. Golden-Age crime where the whole payload is the architecture of the puzzle; often voted the finest locked-room mystery ever written.
+- **The Moon Is a Harsh Mistress** — Robert A. Heinlein (1966). A lunar penal colony revolts against Earth, its revolution stage-managed by a newly self-aware supercomputer with a sense of humour; propulsive, argumentative comfort SF about how you actually engineer a rebellion. Hugo winner, and a classic outside the well-worn Asimov vein.
+
 ### 2026-W27
 
 **Highbrow**

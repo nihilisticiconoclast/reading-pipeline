@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reading Pipeline — Week 2026-28</title>
+  <!-- LOCKED LAYER — the "Tunnel" tokens, linked from cuddly-lamp (never inlined) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tokens.css">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-seed="reading-pipeline-2026-28">
+  <div class="container">
+    <div class="masthead">
+      <span class="sig" id="sig"></span>
+      <span class="wordmark">Reading Pipeline<br>weekly digest</span>
+    </div>
+    <h1>Week 2026-28</h1>
+    <p class="subtitle">Recommendations for the week of 6 July 2026.</p>
+
+    <p class="strategy">This week rotates the highbrow picks onto three edges left cold recently: translated non-Western literary fiction in a country the shelves have never touched (Korea), rigorous narrative nonfiction in anthropology rather than the usual history or economics, and the translated New Wave SF the persona names by author. The comfort picks stay in the most well-loved territory — Discworld, Golden-Age crime and classic SF — but each is a non-owned book whose pleasure is a clean idea or a clever structure rather than sentiment: Death's apprentice buckling causality, a locked-room puzzle that stops to explain its own mechanism, and a computer-managed lunar revolution.</p>
+
+    <section class="group highbrow">
+      <h2>Highbrow</h2>
+      <div class="book">
+        <img class="cover" src="../assets/covers/the-vegetarian.jpg" alt="Cover of The Vegetarian" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>The Vegetarian — Han Kang (2007)</h3>
+          <p>A Korean woman's quiet refusal to eat meat metastasises into a total renunciation of the human, told across three panels by everyone around her except herself — a cold, formally split parable about bodily autonomy and complicity. Man Booker International winner: translated Korean literary fiction from a region the shelves have never touched, ideas-first and wholly unsentimental.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/the-spirit-catches-you-and-you-fall-down.jpg" alt="Cover of The Spirit Catches You and You Fall Down" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>The Spirit Catches You and You Fall Down — Anne Fadiman (1997)</h3>
+          <p>A Hmong toddler's epilepsy becomes a collision between a Californian hospital and a refugee family who read her seizures as a soul taking flight, each chapter braiding the clinical record against Hmong cosmology without ever taking a side. Rigorous medical anthropology and a National Book Critics Circle winner — narrative nonfiction well outside the existing history and economics domains.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/solaris.jpg" alt="Cover of Solaris" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Solaris — Stanisław Lem (1961)</h3>
+          <p>A sentient ocean-planet answers human study by resurrecting the researchers' buried guilt in living flesh, and the whole "science" of Solaristics collapses into a mirror. New Wave SF as a sustained argument that real contact — genuine knowledge of the alien — may simply be impossible: the translated, ideas-first speculative register the persona names by author.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="group lowbrow">
+      <h2>Lowbrow</h2>
+      <div class="book">
+        <img class="cover" src="../assets/covers/mort.jpg" alt="Cover of Mort" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Mort — Terry Pratchett (1987)</h3>
+          <p>Death takes on a gawky apprentice and promptly develops a taste for cocktails and cats, while the boy botches an assassination he was supposed to allow — and the Disc's causality starts to buckle around the mistake. Discworld at its most charming on mortality and fate, and a standalone gap in a deep Pratchett shelf.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/the-hollow-man.jpg" alt="Cover of The Hollow Man" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>The Hollow Man — John Dickson Carr (1935)</h3>
+          <p>Two impossible murders — a man shot dead in a sealed room, another on an empty snow-covered street with no footprints leading to or from him — and a detective who pauses mid-book to lecture on precisely how locked-room tricks are engineered. Golden-Age crime where the whole payload is the architecture of the puzzle; often voted the finest locked-room mystery ever written.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/the-moon-is-a-harsh-mistress.jpg" alt="Cover of The Moon Is a Harsh Mistress" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>The Moon Is a Harsh Mistress — Robert A. Heinlein (1966)</h3>
+          <p>A lunar penal colony revolts against Earth, its rebellion quietly stage-managed by a newly self-aware supercomputer with a dawning sense of humour. Propulsive, argumentative comfort SF about how you actually engineer a revolution — a Hugo winner, and a classic that sits well outside the well-worn Asimov vein.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- per-page doodle: a seeded scribble, off to the right, between sections -->
+    <div class="doodle doodle--right doodle--bleed-right" id="doodle"></div>
+
+    <a class="back" href="../index.html">← All weeks</a>
+  </div>
+
+  <!-- the signature generator: FIXED house mark + a per-page doodle. Linked from
+       the CDN, never inlined, so the figure logic stays in lock-step with the tokens -->
+  <script src="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tunnel-figure.js"></script>
+  <script>
+    (function () {
+      var seed = document.body.dataset.seed || location.pathname || document.title;
+      document.getElementById('sig').innerHTML = TunnelFigure.tunnelFigureSVG(null, { variant: 'mark' });
+document.getElementById('doodle').innerHTML = TunnelFigure.tunnelFigureSVG(seed, { variant: 'doodle' });
+
+      // doodle position — random each load: one of six edge slots (left/right ×
+      // top/middle/bottom), bleeding into the gutter so it never sits behind the text.
+      (function (d) {
+        if (!d) return;
+        var side = Math.random() < 0.5 ? 'left' : 'right';
+        var vert = ['top', 'middle', 'bottom'][Math.floor(Math.random() * 3)];
+        d.style.top = d.style.bottom = d.style.left = d.style.right = 'auto';
+        var tx, ty = '';
+        if (side === 'left') { d.style.left = '0'; tx = 'translateX(-42%)'; }
+        else { d.style.right = '0'; tx = 'translateX(42%)'; }
+        if (vert === 'top') d.style.top = 'clamp(80px,12vh,140px)';
+        else if (vert === 'middle') { d.style.top = '50%'; ty = ' translateY(-50%)'; }
+        else d.style.bottom = 'clamp(40px,8vh,100px)';
+        d.style.transform = tx + ty;
+      })(document.getElementById('doodle'));
+    })();
+  </script>
+</body>
+</html>
