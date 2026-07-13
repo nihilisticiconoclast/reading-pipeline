@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W29
+
+**Highbrow**
+- **The Blind Owl** — Sadegh Hedayat (1937; Eng. trans.). An opium-hazed Iranian recluse narrates and re-narrates the same murder, the same faces, the same room, until identity and event dissolve into a single recursive nightmare; the founding masterpiece of Persian modernism, unsentimental and formally recursive. Translated non-Western literary fiction from a region — Iran/Persia — the shelves have never touched.
+- **Ghettoside: A True Story of Murder in America** — Jill Leovy (2015). An LA Times reporter embeds with South Central homicide detectives to argue, against sensationalism, that the real crisis is *under*-policing — Black men die at 40% of homicides while their killers go uncaught. Rigorous, statistically literate true crime that connects the criminology background to inference under uncertainty; PEN Center USA winner, NBCC finalist.
+- **Life on Mars** — Tracy K. Smith (2011). An elegy for the poet's father — a Hubble engineer — that reaches from David Bowie to dark matter to the indifference of deep space; the diction is exact, the cosmology real, the grief unconsoled. A way into poetry (a near-empty shelf) that lands squarely on the ideas-first, physics-adjacent register; Pulitzer Prize winner.
+
+**Lowbrow**
+- **A Canticle for Leibowitz** — Walter M. Miller Jr. (1959). Monks in a post-nuclear desert preserve the sacred "Memorabilia" — a shopping list, a circuit diagram — across a millennium of collapse and re-ascent, only to watch the cycle of knowledge-and-annihilation begin again. Comfort SF whose engine is one bleak idea about history; Hugo winner, unsentimental, ideas-first.
+- **Gorky Park** — Martin Cruz Smith (1981). Three faceless corpses in the Moscow snow, and an honest militia investigator caught between the KGB, the Party, and a visiting American — the cold moral weather of le Carré transposed to a Soviet murder procedural. Comfort crime in the well-loved vein, but a fresh author and setting.
+- **Going Postal** — Terry Pratchett (2004). A con man is sentenced to resurrect Ankh-Morpork's derelict Post Office and finds himself running an honest racket against a predatory clacks monopoly; Discworld's sharpest standalone on institutions, trust, and the ethics of the swindle. Deep-Pratchett comfort, no series homework required.
+
 ### 2026-W28
 
 **Highbrow**

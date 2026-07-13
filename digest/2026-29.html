@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reading Pipeline — Week 2026-29</title>
+  <!-- LOCKED LAYER — the "Tunnel" tokens, linked from cuddly-lamp (never inlined) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tokens.css">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-seed="reading-pipeline-2026-29">
+  <div class="container">
+    <div class="masthead">
+      <span class="sig" id="sig"></span>
+      <span class="wordmark">Reading Pipeline<br>weekly digest</span>
+    </div>
+    <h1>Week 2026-29</h1>
+    <p class="subtitle">Recommendations for the week of 13 July 2026.</p>
+
+    <p class="strategy">The highbrow picks rotate onto three distinct growth edges this week. Translated non-Western literary fiction reaches a wholly new region — Iran/Persia — with the founding text of Persian modernism. Rigorous true crime returns, but pointed at the criminology-and-inference edge rather than the political register of <em>Say Nothing</em>. And poetry gets a physics-adjacent entry, an ideas-first collection that keeps the invariants intact on a near-empty shelf. The comfort picks stay in the most well-loved veins — classic SF, crime, and Discworld — but each earns its place on a clean idea or a cold moral atmosphere rather than sentiment: a millennial cycle of knowledge lost and rebuilt, a Moscow murder in le Carré's weather, and a con man rebuilding a public institution as an honest racket.</p>
+
+    <section class="group highbrow">
+      <h2>Highbrow</h2>
+      <div class="book">
+        <img class="cover" src="../assets/covers/the-blind-owl.jpg" alt="Cover of The Blind Owl" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>The Blind Owl — Sadegh Hedayat (1937)</h3>
+          <p>An opium-hazed Iranian recluse narrates and re-narrates the same murder, the same faces, the same shuttered room, until identity and event dissolve into a single recursive nightmare. The founding masterpiece of Persian modernism — formally recursive, philosophically serious, unsentimental — and translated non-Western literary fiction from a region the shelves have never touched.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/ghettoside.jpg" alt="Cover of Ghettoside" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Ghettoside: A True Story of Murder in America — Jill Leovy (2015)</h3>
+          <p>An LA Times reporter embeds with South Central homicide detectives to argue, against every sensational instinct of the genre, that the real crisis is <em>under</em>-policing — Black men are the victims in some 40% of American homicides while their killers go uncaught. Rigorous, statistically literate true crime that connects the criminology background straight to inference under uncertainty; PEN Center USA winner and NBCC finalist.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/life-on-mars.jpg" alt="Cover of Life on Mars" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Life on Mars — Tracy K. Smith (2011)</h3>
+          <p>An elegy for the poet's father — an engineer on the Hubble Space Telescope — that reaches from David Bowie to dark matter to the indifference of deep space, the diction exact and the cosmology real. A Pulitzer-winning way into poetry that lands on the ideas-first, physics-adjacent register: rigour without consolation, on a near-empty shelf.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="group lowbrow">
+      <h2>Lowbrow</h2>
+      <div class="book">
+        <img class="cover" src="../assets/covers/a-canticle-for-leibowitz.jpg" alt="Cover of A Canticle for Leibowitz" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>A Canticle for Leibowitz — Walter M. Miller Jr. (1959)</h3>
+          <p>Monks in a post-nuclear desert preserve the sacred "Memorabilia" — a shopping list, a circuit diagram — across a millennium of collapse and re-ascent, only to watch the cycle of knowledge and annihilation begin again. Comfort SF whose engine is one bleak idea about history rather than any sentiment; a Hugo winner, unsentimental and ideas-first.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/gorky-park.jpg" alt="Cover of Gorky Park" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Gorky Park — Martin Cruz Smith (1981)</h3>
+          <p>Three faceless corpses in the Moscow snow, and an honest militia investigator caught between the KGB, the Party, and a visiting American — the cold moral weather of le Carré transposed into a Soviet murder procedural. Comfort crime in the well-loved vein, but a fresh author and a setting the spy shelf has never quite reached.</p>
+        </div>
+      </div>
+      <div class="book">
+        <img class="cover" src="../assets/covers/going-postal.jpg" alt="Cover of Going Postal" onerror="this.onerror=null;this.src='../assets/covers/placeholder.svg'">
+        <div class="meta">
+          <h3>Going Postal — Terry Pratchett (2004)</h3>
+          <p>A condemned con man is sentenced to resurrect Ankh-Morpork's derelict Post Office and finds himself running an honest racket against a predatory clacks monopoly. Discworld's sharpest standalone on institutions, trust, and the ethics of the swindle — deep-Pratchett comfort, no series homework required.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- per-page doodle: a seeded scribble, off to the right, between sections -->
+    <div class="doodle doodle--right doodle--bleed-right" id="doodle"></div>
+
+    <a class="back" href="../index.html">← All weeks</a>
+  </div>
+
+  <!-- the signature generator: FIXED house mark + a per-page doodle. Linked from
+       the CDN, never inlined, so the figure logic stays in lock-step with the tokens -->
+  <script src="https://cdn.jsdelivr.net/gh/nihilisticiconoclast/cuddly-lamp@main/assets/tunnel-figure.js"></script>
+  <script>
+    (function () {
+      var seed = document.body.dataset.seed || location.pathname || document.title;
+      document.getElementById('sig').innerHTML = TunnelFigure.tunnelFigureSVG(null, { variant: 'mark' });
+document.getElementById('doodle').innerHTML = TunnelFigure.tunnelFigureSVG(seed, { variant: 'doodle' });
+
+      // doodle position — random each load: one of six edge slots (left/right ×
+      // top/middle/bottom), bleeding into the gutter so it never sits behind the text.
+      (function (d) {
+        if (!d) return;
+        var side = Math.random() < 0.5 ? 'left' : 'right';
+        var vert = ['top', 'middle', 'bottom'][Math.floor(Math.random() * 3)];
+        d.style.top = d.style.bottom = d.style.left = d.style.right = 'auto';
+        var tx, ty = '';
+        if (side === 'left') { d.style.left = '0'; tx = 'translateX(-42%)'; }
+        else { d.style.right = '0'; tx = 'translateX(42%)'; }
+        if (vert === 'top') d.style.top = 'clamp(80px,12vh,140px)';
+        else if (vert === 'middle') { d.style.top = '50%'; ty = ' translateY(-50%)'; }
+        else d.style.bottom = 'clamp(40px,8vh,100px)';
+        d.style.transform = tx + ty;
+      })(document.getElementById('doodle'));
+    })();
+  </script>
+</body>
+</html>
