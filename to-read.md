@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W30
+
+**Highbrow**
+- **Roadside Picnic** — Arkady & Boris Strugatsky (1972; Eng. trans.). In the aftermath of an alien "Visitation" that left behind uninhabitable Zones full of physics-breaking artefacts, "stalkers" risk their lives to loot objects no one understands; the aliens never appear, and the whole book is one cold idea — that we may be to them as roadside litter is to picnickers. Translated New Wave SF by authors the persona names explicitly, ideas-first and unsentimental, the source text of Tarkovsky's *Stalker*.
+- **The Warmth of Other Suns** — Isabel Wilkerson (2010). The six-decade Great Migration of six million Black Americans out of the Jim Crow South, reconstructed through three braided lives from 1,200 interviews and a historian's forensic patience. Rigorous narrative nonfiction well outside the Greece/Rome-and-World-Wars veins; National Book Critics Circle winner, structurally built as three interleaved case studies rather than a survey.
+- **By Night in Chile** — Roberto Bolaño (2000; Eng. trans. Chris Andrews, 2003). A dying Opus Dei priest and literary critic unspools a single feverish, near-unpunctuated deathbed monologue — Neruda, a falcon-hunting priest, a salon where torture happens in the basement below the poetry. Translated Latin American literary fiction by an author the persona names, formally strange and morally unsparing, in a compressed 130 pages.
+
+**Lowbrow**
+- **The Demolished Man** — Alfred Bester (1953). In a society where telepaths police thought, a tycoon plots the first premeditated murder in seventy years — the pleasure is watching *how* you commit a killing when the detective can read minds. The first-ever Hugo winner; comfort SF with teeth, typographically playful and pure propulsive puzzle, in the Bester vein already enjoyed.
+- **The Nine Tailors** — Dorothy L. Sayers (1934). Lord Peter Wimsey, stranded in a Fenland village at New Year, is drawn into a mystery whose solution turns on the mathematics of church bell-ringing and a corpse no one can identify. Golden-Age crime from a fresh, cerebral author — atmospheric, ingenious, and unsentimental about its puzzle.
+- **The Ipcress File** — Len Deighton (1962). An insolent working-class spy is loaned between departments to chase a "brain-drain" of missing scientists, all filed dry expense claims and bureaucratic contempt; the anti-Bond, and the cooler, funnier cousin of le Carré's cold weather. Comfort spy fiction in the well-loved vein, faster and wittier, a fresh author on the shelf.
+
 ### 2026-W29
 
 **Highbrow**
