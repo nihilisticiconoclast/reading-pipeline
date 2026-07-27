@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W31
+
+**Highbrow**
+- **Tomb of Sand** — Geetanjali Shree (2018; Eng. trans. Daisy Rockwell, 2021). After her husband's death an eighty-year-old woman sinks into what looks like terminal depression, then rises transformed and insists on crossing the border into Pakistan to confront the partition she survived as a child; the prose plays constantly — narrating birds, doors, borders themselves — in a sprawling, buoyant, formally unruly whole. The first Hindi novel to win the International Booker (2022); translated South Asian literary fiction, a region the shelves have never held, ideas-first and structurally strange.
+- **Gods of the Upper Air** — Charles King (2019). How Franz Boas and a circle of outsider students — Margaret Mead, Zora Neale Hurston, Ruth Benedict — dismantled the scientific racism of their era and made "culture" a relative rather than a hierarchy; intellectual history told as a forensic account of how an idea overturns a worldview. Rigorous narrative nonfiction in anthropology, a fresh domain, ideas-first about the very machinery of knowing; Anisfield-Wolf winner, NBCC finalist.
+- **The Suspicions of Mr Whicher** — Kate Summerscale (2008). The 1860 country-house murder of a child, reconstructed detail by forensic detail alongside the birth of the professional detective and the public appetite for detection itself; the payload is epistemic — what counts as evidence, and how a whole culture learned to reason from clues. Rigorous true crime that connects the criminology background to inference under uncertainty; Samuel Johnson Prize winner, unsentimental about both the crime and the myth of the detective.
+
+**Lowbrow**
+- **Reaper Man** — Terry Pratchett (1991). Sacked by the Auditors for developing a personality, Death takes a job as a farmhand while, with no one to collect them, the Disc's dead pile up and surplus life-force starts sprouting into strange growths; a standalone that is Pratchett's warmest, funniest meditation on why an ending is what gives a life its shape. Deep-Pratchett comfort, no series homework required, an idea underneath the jokes.
+- **The Mask of Dimitrios** — Eric Ambler (1939). A mild English crime novelist, shown a dead gangster's body in an Istanbul morgue, decides to reconstruct the man's biography for fun and finds himself tracing a career of assassination and betrayal across 1930s Europe; the anti-Bond thriller, a nested investigation where the detective is a bystander and the villain is only ever a rumour. Comfort spy fiction in the cold, unsentimental vein — a fresh, foundational author le Carré and Greene both learned from.
+- **Gateway** — Frederik Pohl (1977). A prospector strikes it rich riding derelict alien ships to unknown destinations — some to fortune, some to death — and narrates it all in sessions with a robot psychoanalyst that slowly pries out what really happened; comfort hard SF built on one clean idea (the ships you can't steer) with a genuinely strange confessional frame. Winner of the Hugo, Nebula, and Locus awards; propulsive, unsentimental, ideas-first.
+
 ### 2026-W30
 
 **Highbrow**
