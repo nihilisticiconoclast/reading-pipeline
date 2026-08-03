@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W32
+
+**Highbrow**
+- **Love in the New Millennium** — Can Xue (2013; Eng. trans. Annelise Finegan Wasmoen, 2018). China's most radically experimental living writer follows a loose constellation of women — factory workers, a herbalist, lovers passing coded notes — through a dreamlike world where surveillance, desire, and reality itself keep dissolving into one another; plot is beside the point, the logic is that of a waking dream held to with total rigour. Translated Chinese literary fiction, a tradition the shelves have never held — formally strange to the core, ideas-first, unsentimental; longlisted for the 2019 International Booker.
+- **An Immense World** — Ed Yong (2022). A tour of the *Umwelt* — the idea that every animal inhabits its own sensory bubble, and that ours is one narrow slice among echolocation, electric fields, magnetic senses, and colours we can't imagine — built species by species from the primary science. Rigorous narrative science well beyond Attenborough, organised as a conceptual argument rather than a menagerie; ideas-first, precise, a Royal Society Prize winner.
+- **Radical Uncertainty** — John Kay & Mervyn King (2020). An economist and a former Bank of England governor argue that most consequential decisions face uncertainty that no probability distribution can capture, and that dressing the unknowable in numbers is a category error — the right question is not "what are the odds" but "what is going on here". Philosophy of uncertainty that pushes *past* the Bayesian frame rather than reinforcing it; ideas-first, rigorous, unsentimental about the limits of quantification.
+
+**Lowbrow**
+- **Hogfather** — Terry Pratchett (1996). When the Discworld's Father-Christmas figure is targeted for assassination, Death takes over the sleigh to keep belief alive, while his granddaughter untangles who wants the Hogfather gone and why children need to practise believing the small lies so they can grasp the big ones — justice, mercy, duty. Deep-Pratchett comfort, effectively standalone, with a genuinely serious idea about belief under the jokes.
+- **Dark Star** — Alan Furst (1991). A Pravda correspondent and reluctant NKVD agent moves through the glittering, doomed salons and back alleys of 1937 Europe as the Soviet and Nazi services close on each other; the current master of the atmospheric spy novel, cold and unsentimental in the vein already loved, but a fresh author and a new theatre. Comfort espionage with real moral weather — Night Soldiers #2, reads alone.
+- **Cat's Cradle** — Kurt Vonnegut (1963). Ice-nine, a doomsday substance that freezes the world's water, and Bokononism, an invented religion that admits it's built on lies, braided into a short, savagely funny apocalypse told in 127 tiny chapters. Comfort SF with teeth — a fresh author, formally playful, ideas-first about science, faith, and the end of everything, and never for a moment sentimental.
+
 ### 2026-W31
 
 **Highbrow**
