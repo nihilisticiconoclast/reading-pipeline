@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W33
+
+**Highbrow**
+- **The Woman in the Dunes** — Kōbō Abe (1962; Eng. trans. E. Dale Saunders, 1964). An amateur entomologist collecting insects on a remote coast is trapped by villagers at the bottom of a vast sand pit and forced to shovel back the dunes that threaten to bury a woman's house — an endless Sisyphean labour that slowly becomes the whole meaning of his life. Translated Japanese literary fiction the shelves have only touched through crime: a cold, rigorously sustained existential parable, formally claustrophobic and utterly unsentimental, filmed by Teshigahara.
+- **The Mushroom at the End of the World** — Anna Lowenhaupt Tsing (2015). Following the matsutake — a wild mushroom that thrives only in human-ruined forests and travels a global supply chain from Oregon pickers to Japanese luxury markets — the book asks how anything survives, and even flourishes, in the ruins capitalism leaves behind. Rigorous anthropology built as a patchwork of "assemblages" rather than a linear argument: ideas-first, formally strange, unsentimental about collapse; a fresh domain for the shelf.
+- **Deaf Republic** — Ilya Kaminsky (2019). A book-length sequence set in an occupied town that goes collectively, defiantly deaf after soldiers shoot a deaf boy, staged half as poetry and half as silent political theatre with its own sign-language illustrations. A way into poetry — a near-empty shelf — that keeps every invariant: formally strange, philosophically serious about complicity and silence under tyranny, and entirely unconsoling; a National Book Award finalist.
+
+**Lowbrow**
+- **Blindsight** — Peter Watts (2006). First contact with an alien intelligence that may be supremely capable yet possess no consciousness at all, investigated by a crew of augmented misfits led by a resurrected vampire — the whole novel a propulsive argument that self-awareness might be an evolutionary handicap rather than the crown of creation. Comfort hard SF with teeth: idea-dense, cold, and unsentimental, a cult favourite that reads fast while the concepts detonate underneath.
+- **Our Man in Havana** — Graham Greene (1958). A hapless vacuum-cleaner salesman in pre-revolution Cuba, recruited by British intelligence and desperate for the money, invents a network of agents and passes off diagrams of vacuum parts as secret weapon installations — until London believes him and the fiction turns deadly. Comfort spy fiction in the well-loved cold vein but played for savage comedy; a fresh, foundational author le Carré learned from, ideas-first about the absurdity of the whole trade.
+- **The Poisoned Chocolates Case** — Anthony Berkeley (1929). A poisoning that baffles Scotland Yard is handed to a Crime Circle of six amateur detectives, each of whom solves it — arriving at six different, fully argued, mutually contradictory solutions. Golden-Age crime whose whole payload is structural: a formally playful demonstration that "the evidence" can be built into almost any story you like, unsentimental and ingenious.
+
 ### 2026-W32
 
 **Highbrow**
