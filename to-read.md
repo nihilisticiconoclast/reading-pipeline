@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W34
+
+**Highbrow**
+- **Beauty Is a Wound** — Eka Kurniawan (2002; Eng. trans. Annie Tucker, 2015). A prostitute climbs out of her own grave after twenty-one years dead, and her return unspools a savage, ghost-crowded family epic that runs from Dutch colonialism through the Japanese occupation to Suharto's massacres. Translated Indonesian literary fiction — a region and archipelago the shelves have never held — sprawling and formally unruly in the magical-realist line, ideas-first about colonial violence and utterly unsentimental; a Man Booker International finalist.
+- **Mr. Cogito** — Zbigniew Herbert (1974; Eng. trans. John & Bogdana Carpenter, 1993). Forty poems tracking Herbert's dry, sceptical alter ego as he reasons his way through pain, cowardice, memory and the temptations of despair under a police state. Translated Eastern European poetry into a near-empty shelf that keeps every invariant: austere, classically disciplined, philosophically serious about how to stay upright without consoling lies, and never for a moment sentimental.
+- **Sweetness and Power** — Sidney W. Mintz (1985). The anthropologist traces how sugar crossed from rare luxury to daily necessity, and shows that the sweetness in a working family's tea was manufactured by Caribbean slavery and the discipline of the factory clock. The founding text of commodity history — rigorous, ideas-first about how taste itself is engineered by power, unsentimental about the human cost — in economic anthropology, a fresh domain for the shelf.
+
+**Lowbrow**
+- **The Player of Games** — Iain M. Banks (1988). A bored master gamer from a post-scarcity utopia is sent to a brutal galactic empire whose entire hierarchy is decided by one fiendishly complex board game — where to win the game is to become emperor, and to play it honestly is to critique your own civilisation. Comfort Culture SF that is propulsive and witty yet genuinely idea-dense, cool and unsentimental about power; the best entry point to Banks, a fresh author on the shelf.
+- **The Tears of Autumn** — Charles McCarry (1974). A CIA case officer, convinced the Kennedy assassination was Vietnamese revenge for the murder of Diem, chases his own theory from Paris to Saigon to the Congo with nothing but tradecraft and nerve. Comfort spy fiction in the cold, morally exhausted le Carré vein — elegant, plausible, unsentimental — from a fresh, seriously underrated American master of the form.
+- **Green for Danger** — Christianna Brand (1944). A postman dies on the operating table of a Blitz-era military hospital, a nurse who suspects murder is knifed before she can speak, and rumpled Inspector Cockrill sifts six suspects in a fair-play puzzle whose solution is pure clockwork. Golden-Age crime at its most ingenious and genuinely fun — witty, precisely engineered, unsentimental — and the source of one of the great mystery films.
+
 ### 2026-W33
 
 **Highbrow**
