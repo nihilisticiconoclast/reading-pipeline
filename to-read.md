@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W35
+
+**Highbrow**
+- **My Name Is Red** — Orhan Pamuk (1998; Eng. trans. Erdağ Göknar, 2001). A miniaturist is murdered in the workshops of the sixteenth-century Ottoman sultan, and the mystery of who killed him — and why the secret commission to paint in the forbidden Frankish, perspectival manner is worth killing over — is narrated in turn by every suspect, a corpse, a drawn dog, a gold coin, the colour red itself. Translated Turkish literary fiction, a region and tradition the shelves have never held: ideas-first about seeing, representation, and the clash of Islamic and Western ways of picturing the world, formally strange in its rotating first-person chorus, and coldly unsentimental beneath the ornament; by the 2006 Nobel laureate.
+- **1491: New Revelations of the Americas Before Columbus** — Charles C. Mann (2005). A rigorous demolition of the "pristine wilderness" myth, marshalling archaeology, demography, and ecology to argue that the pre-Columbian Americas were older, more populous, and more thoroughly engineered — from Amazonian terra preta soils to the managed forests of New England — than the textbooks allow. Narrative nonfiction in a domain the shelf has never touched (pre-Columbian history), ideas-first and forensically sourced, unsentimental about how a comfortable story survives against the evidence.
+- **Inventing Temperature: Measurement and Scientific Progress** — Hasok Chang (2004). How did anyone establish that a thermometer tells the truth, when the only way to test a thermometer is with another thermometer? Chang reconstructs the two-century struggle to fix temperature's fixed points and build a trustworthy scale from nothing, and turns it into a philosophy of "epistemic iteration" — knowledge bootstrapping itself upward without a foundation to stand on. Philosophy of measurement and uncertainty that connects straight to the Bayesian interest; rigorous, ideas-first, and the winner of the 2006 Lakatos Award — a natural companion to the Lakatos already on the queue.
+
+**Lowbrow**
+- **Ringworld** — Larry Niven (1970). A jaded 200-year-old human, a cowardly two-headed alien, and a warrior cat-beast are recruited to explore an artefact of impossible scale — a ribbon of engineered material a million miles wide, looped in a full ring around its star, with the surface area of three million Earths. Comfort hard SF built on one clean, vertiginous big-object idea and worked out with slide-rule rigour; propulsive, cool, and unsentimental — winner of the Hugo, Nebula, and Locus awards, from a fresh author on the shelf.
+- **The Moving Toyshop** — Edmund Crispin (1946). A poet arriving in Oxford at night stumbles into a toyshop with a strangled woman upstairs — and wakes to find the toyshop gone, replaced by a grocer's, the body vanished, and no one who believes him; enter the don-detective Gervase Fen to reason the impossibility apart. Golden-Age crime at its wittiest and most self-aware — a formally playful, literate romp that keeps the fair-play rigour intact under the farce; a fresh author for a well-loved vein.
+- **The Yiddish Policemen's Union** — Michael Chabon (2007). In an alternate history where post-war Jewish refugees were resettled in a temporary Alaskan district now about to revert, a broken-down homicide detective works a junkie chess prodigy's murder in the last weeks before his whole world is dissolved by decree. Hardboiled noir welded to counterfactual world-building — ideas-dense, stylishly written, and unsentimental — a genuinely fun comfort read that swept the Hugo, Nebula, and Locus awards; a fresh author bridging the crime and SF veins.
+
 ### 2026-W34
 
 **Highbrow**
