@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W36
+
+**Highbrow**
+- **Satantango** — László Krasznahorkai (1985; Eng. trans. George Szirtes, 2012). On a rain-drowned, collapsing collective farm in late-communist Hungary, a huddle of stranded villagers pin their last hope on the return of a charismatic swindler they believe is dead; the whole book advances in twelve chapters that step six forward and six back, like the tango it is named for, written in vast unbroken paragraph-long sentences. Translated Hungarian literary fiction, a tradition and region the shelf has never held — formally strange to its bones, philosophically serious about hope, manipulation and entropy, and utterly unsentimental; the debut of a Booker International laureate, sourced for Béla Tarr's seven-hour film.
+- **Homicide: A Year on the Killing Streets** — David Simon (1991). A reporter embedded for a full year with a Baltimore homicide unit reconstructs the actual work of murder investigation — the interrogation-room theatre, the clearance-rate arithmetic, the cases that never close — without a single sentimental beat about cops or victims. Rigorous, forensic true crime that connects the criminology background to inference under uncertainty: how detectives reason from fragments, and how often the reasoning fails; the source of a landmark television series, ideas-first about a system rather than a single crime.
+- **The Book of Why: The New Science of Cause and Effect** — Judea Pearl & Dana Mackenzie (2018). The pioneer of Bayesian networks argues that statistics spent a century forbidding the one question that matters — *why* — and lays out a "ladder of causation" (seeing, doing, imagining) with the diagrammatic calculus that lets a machine, or a mind, reason about causes rather than mere correlations. Contemporary epistemology of causation that pushes past the Bayesian frame from the inside; ideas-first, rigorous, and unsentimental about the limits of pure data.
+
+**Lowbrow**
+- **Ender's Game** — Orson Scott Card (1985). A gifted child is taken into an orbital battle school and drilled through ever more brutal zero-gravity war games to be forged into the commander who can save humanity from an insectoid alien fleet — and the twist turns the whole training on its head. Comfort SF with teeth: propulsive and effortlessly readable, built on clean ideas about strategy, empathy and manipulation, and cold about the price of them; winner of both the Hugo and Nebula, from a fresh author on the shelf.
+- **The Quiller Memorandum** — Adam Hall (1965). A lone, needle-cool British agent works divided Cold War Berlin against a neo-Nazi network with no gun and no backup, only nerve, tradecraft and a running interior monologue of counter-surveillance calculation. Comfort spy fiction in the cold, unsentimental le Carré vein but leaner and more claustrophobic — first-person, almost existential — and a fresh author: winner of the Edgar and the French Grand Prix de Littérature Policière.
+- **Tragedy at Law** — Cyril Hare (1942). A pompous High Court judge on the wartime assize circuit starts receiving anonymous threats, and the murder, when it comes, is unravelled by an ageing, underachieving barrister whose real weapon is expert legal knowledge. Golden-Age crime from a fresh author — a real barrister and judge — whose fair-play puzzle turns on a fine point of law; witty, precisely engineered, unsentimental, and long regarded as the best English mystery set in the legal world.
+
 ### 2026-W35
 
 **Highbrow**
