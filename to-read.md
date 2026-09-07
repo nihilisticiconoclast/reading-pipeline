@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W37
+
+**Highbrow**
+- **Omeros** — Derek Walcott (1990). An eight-thousand-line epic in terza rima that transplants the *Iliad* and *Odyssey* onto St. Lucia, where the black fishermen Achille and Hector fight over a woman called Helen while the poet-narrator interrogates his own inheritance of empire, exile and the sea. Poetry into a near-empty shelf, and the translated/non-Western register reaching the Caribbean for the first time: formally strange — a Homeric epic set in a living creole world — philosophically serious about colonialism and belonging, rigorous in its classicist's craft, and never consoling; by the 1992 Nobel laureate.
+- **The Sorrow of War** — Bảo Ninh (1990; Eng. trans. Phan Thanh Hao & Frank Palmos, 1993). A North Vietnamese veteran, now a haunted writer, reassembles the war out of sequence — the jungle of the Screaming Souls, a lost first love, the corpses no ceremony redeems — in a manuscript that keeps collapsing back into memory. Translated Vietnamese literary fiction, a region and tradition the shelf has never held: told from the side the Western canon rarely hears, formally fractured, ideas-first about memory and futility, and utterly unsentimental about both the war and the peace that followed.
+- **The Silk Roads: A New History of the World** — Peter Frankopan (2015). A deliberate reorientation of world history away from Europe and toward the belt of cities and trade routes threading Central Asia and Persia, arguing that faith, wealth, disease and power have flowed east–west along that axis for two millennia. Narrative history well outside the Greece/Rome-and-World-Wars veins, ideas-first about where the world's centre of gravity really lies, rigorously sourced and unsentimental about the myths a Western-centred story leaves out.
+
+**Lowbrow**
+- **Hyperion** — Dan Simmons (1989). Seven pilgrims travel to the lethal Time Tombs of a distant world, and each tells the tale of what drew them there — a soldier's, a priest's, a scholar's, a poet's — in a *Canterbury Tales* frame that assembles one vast SF mystery from seven radically different voices and genres. Comfort space opera with real teeth: propulsive and endlessly inventive, formally playful in its nested storytelling, ideas-dense and cool; a Hugo winner from a fresh author on the shelf.
+- **Rogue Male** — Geoffrey Household (1939). An English sportsman is caught taking aim at a European dictator, tortured, thrown off a cliff to fake an accident — and survives to be hunted across the country, going literally to ground in a Dorset burrow as the pursuit closes. Comfort thriller in the lean, cold, first-person vein already loved — almost an existential monologue of flight and self-reckoning — a foundational chase novel from a fresh author, taut and unsentimental.
+- **The Beast Must Die** — Nicholas Blake (1938). A crime novelist whose small son was killed by a hit-and-run driver sets out to murder the man and records the entire plan in a diary — so when the target turns up dead and he is the obvious suspect, his plea that he was framed leaves detective Nigel Strangeways to untangle what really happened. Golden-Age crime that is also a formally clever inverted thriller — the confession comes first — witty, precisely engineered, and unsentimental about revenge; by the future Poet Laureate Cecil Day-Lewis.
+
 ### 2026-W36
 
 **Highbrow**
