@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W38
+
+**Highbrow**
+- **The Radiance of the King** — Camara Laye (1954; Eng. trans. James Kirkup, 1956). A penniless, shipwrecked white man drifts through an African kingdom desperate for an audience with a distant boy-king, in a colonial quest-romance turned completely inside out — Kafka refracted through West Africa. Translated sub-Saharan African literary fiction, a region the shelf has never held (Guinea): formally strange, philosophically serious about grace, dependence and the reversal of the coloniser's gaze, and unsentimental; an NYRB Classic with an introduction by Toni Morrison.
+- **Buddhism as Philosophy** — Mark Siderits (2007). A rigorous analytic reconstruction of the core Buddhist arguments — no-self, momentariness, the two truths, the limits of knowledge — treated as live philosophy to be argued with rather than doctrine to be received. Non-Western philosophy and epistemology, ideas-first and precise; exactly the strong secondary summary the persona prefers over untranslated primary slabs, and a way into the epistemology edge that sidesteps the well-worn probability groove.
+- **The Great Transformation** — Karl Polanyi (1944). The founding argument that the self-regulating market was never natural but engineered by the state, and that treating land, labour and money as pure commodities tore society apart and bred the political backlash of the 1930s. Economic history and political economy well outside the Greece/Rome-and-World-Wars veins — ideas-first, rigorous, and unsentimental; a cornerstone of economic anthropology.
+
+**Lowbrow**
+- **A Fire Upon the Deep** — Vernor Vinge (1992). A galaxy stratified into "Zones of Thought," where the possible speed of mind and machine changes with distance from the core; a resurrected transcendent menace loose at the top, and a doglike pack-mind species — a single intelligence spread across several bodies — that is one of SF's great inventions. Comfort space opera with real conceptual teeth: propulsive, idea-dense, and cool; a Hugo winner from a fresh author on the shelf.
+- **The Tiger in the Smoke** — Margery Allingham (1952). A killer is loose in a fog-choked post-war London, hunted through the back streets while Albert Campion circles; Golden-Age crime that shades into a taut, atmospheric thriller genuinely serious about the nature of evil. Widely held to be Allingham's masterpiece — unsentimental and precisely built — a fresh author for a well-loved vein.
+- **Monstrous Regiment** — Terry Pratchett (2003). A girl cuts off her hair and enlists as a boy in a losing war for a shrinking, god-bothered little nation, in a regiment where almost no one turns out to be quite what they seem. Deep-Pratchett comfort, fully standalone — Discworld at its sharpest on war, propaganda and identity, funny on the surface with a real idea running underneath.
+
 ### 2026-W37
 
 **Highbrow**
