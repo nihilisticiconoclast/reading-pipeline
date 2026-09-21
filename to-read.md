@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W39
+
+**Highbrow**
+- **Unfortunately, It Was Paradise** — Mahmoud Darwish (2003; ed. & trans. Munir Akash & Carolyn Forché). A career-spanning selected from the Palestinian national poet — exile, siege, olive trees and the argument with history rendered in a spare, image-driven line that never tips into lament. Arabic poetry into a near-empty shelf and a tradition it has never held: ideas-first about memory, land and belonging, formally disciplined, and unconsoling even at its most elegiac.
+- **The Anarchy: The Relentless Rise of the East India Company** — William Dalrymple (2019). How a private London joint-stock company with its own army conquered the Mughal empire and looted a subcontinent, told from the Indian and Persian archives as a case study in corporate power outrunning the state. Narrative history well outside the Greece/Rome-and-World-Wars veins — rigorously sourced, ideas-first about the machinery of extraction, and unsentimental about both empire and the myth of the free market.
+- **Disputers of the Tao: Philosophical Argument in Ancient China** — A. C. Graham (1989). The definitive reconstruction of the "hundred schools" — Confucians, Mohists, Daoists, Legalists and the logic-chopping School of Names — as live philosophical argument about language, knowledge and how one ought to act. Non-Western philosophy at full rigour: the strong secondary summary the persona prefers, ideas-first and precise, opening a whole tradition of epistemology and logic the shelf has never touched.
+
+**Lowbrow**
+- **Startide Rising** — David Brin (1983). A crippled Earth ship crewed mostly by uplifted dolphins hides on a water-world while fanatical alien fleets tear the sky apart over what it found; the payload is the "Uplift" idea — that intelligence is a gift older species bestow, and squabble murderously to control. Comfort space opera with real conceptual teeth: propulsive, cool, and idea-dense, a Hugo, Nebula and Locus winner from a fresh author on the shelf.
+- **Smallbone Deceased** — Michael Gilbert (1950). A body turns up in a sealed deed-box in a genteel Lincoln's Inn law firm, and the murder can only have been done by one of the partners or clerks — unravelled with dry wit and exact legal knowledge by an author who was himself a City solicitor. Golden-Age crime at its most precisely engineered and quietly funny — a fair-play puzzle in a closed world — from a fresh author for a well-loved vein.
+- **A Perfect Spy** — John le Carré (1986). A veteran British agent vanishes to a seaside boarding house to write the story of his own life, and the confession peels back a con-man father and a whole education in betrayal — the novel le Carré called the closest to his own bones. Comfort spy fiction in the most well-loved vein but reaching deeper: formally a nested memoir-within-the-manhunt, cold about loyalty and self-invention, and widely held to be his finest book.
+
 ### 2026-W38
 
 **Highbrow**
