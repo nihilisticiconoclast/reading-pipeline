@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W40
+
+**Highbrow**
+- **Sleepwalking Land** — Mia Couto (1992; Eng. trans. David Brookshaw, 2006). As Mozambique's civil war grinds on, an old man and an orphaned boy shelter in a burnt-out bus and read the notebooks of a dead stranger, until the diary and the road begin to bleed into one another. Translated lusophone African literary fiction, a region and language the shelves have never held: formally strange in its nested, dreamlike structure, philosophically serious about war, memory and survival, and unsentimental even at its most lyrical — voted one of the twelve best African books of the twentieth century.
+- **Through the Language Glass** — Guy Deutscher (2010). A rigorous, sceptical tour of whether the language you speak shapes how you see the world — colour, gender, space — that dismantles the lazy Whorfian myths and then rebuilds the defensible core from the actual evidence. Narrative nonfiction in linguistics, a domain the shelf has never touched: ideas-first and precise, with exactly the low tolerance for hand-waving and unfaithful simplification the persona demands.
+- **The Adversary** — Emmanuel Carrère (2000; Eng. trans. Linda Coverdale, 2001). The true case of Jean-Claude Romand, who posed for eighteen years as a doctor he never was and, when the lie finally collapsed, murdered his wife, children and parents rather than be found out — reconstructed by a novelist who keeps turning the inquiry back on his own complicity. Rigorous, forensic true crime in the register that connects the criminology background to inference under uncertainty: translated, formally reflexive, philosophically serious about self-deception, and utterly unsentimental.
+
+**Lowbrow**
+- **Lord of Light** — Roger Zelazny (1967). On a colony world where the crew's descendants have seized technology to make themselves the Hindu pantheon and lock everyone else in enforced reincarnation, one renegade "god" takes up the role of the Buddha to break the racket. Comfort SF with real teeth: propulsive, witty, and formally playful, built on a genuinely strange idea about power and belief dressed as myth — winner of the Hugo Award, from a fresh author on the shelf.
+- **Trent's Last Case** — E. C. Bentley (1913). A famous gentleman-detective builds an elegant, airtight solution to a tycoon's murder — and then watches it fall apart, twice, in a novel that set out to gently sabotage the infallible-sleuth formula it helped found. Golden-Age crime whose payload is structural: a fair-play puzzle that is also a sly argument about the limits of clever deduction, witty and unsentimental, from a fresh author for a well-loved vein.
+- **The Good German** — Joseph Kanon (2001). An American correspondent returns to the rubble of 1945 Berlin for the Potsdam conference and stumbles into a murder that opens onto the scramble between the Allies and the Soviets for Germany's rocket scientists. Comfort espionage in the cold, morally exhausted le Carré vein but a fresh author and a fresh theatre: atmospheric, propulsive, and unsentimental about who gets absolved when the winners write the peace.
+
 ### 2026-W39
 
 **Highbrow**
