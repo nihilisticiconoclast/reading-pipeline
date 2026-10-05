@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W41
+
+**Highbrow**
+- **The Palace of Dreams** — Ismail Kadare (1981; Eng. trans. Barbara Bray from Jusuf Vrioni's French, 1993). In a nameless Ottoman-Balkan empire, a young scion of a powerful family joins the Tabir Sarrail — the vast ministry that collects, sorts and interprets every subject's dreams to divine threats to the state — until a Master-Dream pulls his own clan into the machinery. Translated literary fiction from Albania, a country the shelves have never held: a Kafkaesque, structurally strange parable of totalitarian power squarely in the *We* / *Piranesi* register, philosophically serious and utterly unsentimental — banned two weeks after publication, now held to be Kadare's masterpiece.
+- **The Code of Capital** — Katharina Pistor (2019). The argument that capital is not a thing but a legal quality: land, debt, corporate shares and lines of code become wealth only when private lawyers "code" them into property, collateral and trusts the state will enforce — so inequality is manufactured in the drafting room, not the market. Narrative nonfiction in political economy and law, a fresh domain that ties the legal-narrative interest to how power actually works: ideas-first, rigorous, and cold-eyed about where money really comes from.
+- **The Shadow of the Torturer** — Gene Wolfe (1980). The opening volume of *The Book of the New Sun*: Severian, an apprentice in the guild of torturers on a dying far-future Earth, is exiled for the mercy of letting a prisoner die, and sets out on a journey narrated in his own too-perfect, unreliable memory. Literary New Wave SF at its most demanding — a growth edge well beyond the Golden Age — formally strange in its buried clues and recursive narration, philosophically serious and unsentimental to the bone; winner of the World Fantasy and BSFA awards.
+
+**Lowbrow**
+- **Tau Zero** — Poul Anderson (1970). A fifty-strong crew sets out for a nearby star aboard a Bussard ramjet that cannot stop accelerating; when the deceleration module fails, they ride time dilation past the death and rebirth of the universe itself. Comfort hard SF built on one clean, vertiginous idea and worked through with slide-rule rigour — propulsive, cool and unsentimental — a Hugo finalist and a touchstone of the form, from a fresh author on the shelf.
+- **Ashenden: Or the British Agent** — W. Somerset Maugham (1928). Loosely linked stories drawn from Maugham's own First World War intelligence work: a writer-turned-agent runs errands of betrayal across wartime Europe, where doing well earns no thanks and getting caught earns no help. The cold, ironic, unsentimental ur-text of realistic spy fiction — the book Ambler, Greene and le Carré all learned from — a fresh, foundational author for the most well-loved vein.
+- **Verdict of Twelve** — Raymond Postgate (1940). A woman stands trial for murder, and before a word of evidence is heard the novel dissects all twelve jurors — their secrets, prejudices and private guilts — then watches those flawed minds reason their way to a verdict. Golden-Age crime whose payload is structural and epistemic: a fair-play puzzle that is really an argument about how ordinary people weigh evidence, wired straight to the criminology and inference-under-uncertainty interest, from a fresh author for a well-loved vein.
+
 ### 2026-W40
 
 **Highbrow**
