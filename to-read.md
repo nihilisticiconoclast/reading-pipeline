@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W42
+
+**Highbrow**
+- **Too Loud a Solitude** — Bohumil Hrabal (1976; Eng. trans. Michael Henry Heim, 1990). For thirty-five years Haňťa has run a wastepaper press in a Prague cellar, rescuing a private education and a handful of banned books from the crusher — until a brutal new industrial machine threatens to make his whole way of being obsolete. Translated Czech literary fiction, a tradition the shelves have never held: a single rhapsodic monologue, formally strange, philosophically serious about knowledge, destruction and progress, and unsentimental beneath the lyricism — the book Hrabal said he had been born to write.
+- **The Control of Nature** — John McPhee (1989). Three long, forensically reported essays on humanity's losing wars against the earth — the Army Corps fighting to stop the Mississippi jumping its banks, Icelanders hosing seawater at an advancing lava flow, and Los Angeles engineering against the debris that pours off the San Gabriels. Narrative nonfiction in a fresh domain — geology and engineering — ideas-first about hubris and the limits of control, rigorous to the last measurement, and coldly unsentimental about who finally wins.
+- **The Selected Poetry of Yehuda Amichai** — Yehuda Amichai (1996; trans. Chana Bloch & Stephen Mitchell). The essential English selection from Israel's greatest modern poet: love, war, God and Jerusalem rendered in a plain, ironic, image-exact line that holds the sacred and the everyday in a single breath. Poetry into a near-empty shelf and a Hebrew tradition it has never touched — ideas-first, formally disciplined, and unconsoling even at its most tender.
+
+**Lowbrow**
+- **Ubik** — Philip K. Dick (1969). In a near-future of psychics and "half-life" cryonic suspension, a team caught in a sabotage blast watches reality decay around them — objects regress, time runs backward, and messages from their dead employer arrive via a spray can called Ubik. Comfort SF with real teeth from a foundational author the shelf has never held: propulsive and funny on the surface, metaphysically vertiginous underneath, and never for a moment sentimental — one of Time's hundred best English-language novels.
+- **The Tourist** — Olen Steinhauer (2009). Milo Weaver, a burned-out CIA "tourist" — an agent with no home, no name and no cover — has settled for a desk and a family, until the capture of a long-hunted assassin drags him into a mole-hunt that turns on his own oldest friend. Comfort espionage in the cold, morally exhausted le Carré vein but a fresh, contemporary author and theatre: propulsive, twisty and unsentimental — the book Stephen King called the best spy novel not written by le Carré.
+- **Hamlet, Revenge!** — Michael Innes (1937). At a ducal estate a semi-amateur staging of *Hamlet* is cut short by a gunshot: the Lord Chancellor, playing Polonius, is dead, a state document is missing, and Inspector Appleby must sift a vast cast of grandees. Golden-Age crime at its most literate and donnish — a fair-play puzzle thick with Shakespearean wit from a fresh author (the Oxford don J. I. M. Stewart) — ingenious, precise, and unsentimental.
+
 ### 2026-W41
 
 **Highbrow**
