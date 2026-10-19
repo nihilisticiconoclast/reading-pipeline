@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W43
+
+**Highbrow**
+- **A Tomb for Boris Davidovich** — Danilo Kiš (1976; Eng. trans. Duška Mikić-Mitchell, 1978). Seven coldly documentary "stories" trace the lives and engineered deaths of revolutionaries swallowed by the Stalinist terror, written as forged biography — footnoted, cross-referenced, Borgesian — so that fiction and the historical record become impossible to tell apart. Translated literary fiction from the former Yugoslavia, a tradition the shelves have never held: formally strange to its foundations, philosophically serious about history, ideology and the manufacture of truth, and utterly unsentimental; the book that made Kiš's name and triggered a famous plagiarism witch-hunt against him.
+- **The Rest Is Noise: Listening to the Twentieth Century** — Alex Ross (2007). A history of the entire twentieth century told through its music — Strauss and Mahler to Shostakovich under Stalin, Britten, the serialists, Cage and the minimalists — argued as a story about how art answers to power, technology and catastrophe. Narrative nonfiction in a wholly fresh domain (modern classical music), ideas-first and rigorous about the works themselves rather than the gossip, winner of the National Book Critics Circle Award and the Guardian First Book Award.
+- **The Journalist and the Murderer** — Janet Malcolm (1990). Starting from a convicted murderer's lawsuit against the writer who befriended and then damned him, Malcolm builds a forensic, self-implicating essay on the moral confidence trick at the heart of all journalism — "every journalist... is a kind of confidence man." Rigorous true-crime-adjacent nonfiction that connects the criminology interest to the epistemology of evidence and betrayal: short, formally reflexive, philosophically serious and coldly unsentimental about its own trade; on the Modern Library's hundred best nonfiction books of the century.
+
+**Lowbrow**
+- **The City & the City** — China Miéville (2009). A murder investigation in two Mitteleuropean city-states that occupy the very same streets, whose citizens are trained from birth to "unsee" each other, so that crossing between them is the one unforgivable crime. Comfort crime-SF with real conceptual teeth: a police procedural built on a single vertiginous idea about perception and the borders we enforce in our own heads — propulsive, cool, and unsentimental; winner of the Hugo, Arthur C. Clarke, World Fantasy and BSFA awards, from a fresh author on the shelf.
+- **An Officer and a Spy** — Robert Harris (2013). The Dreyfus affair retold through Georges Picquart, the intelligence officer who helped convict Dreyfus and then, appalled to find the real traitor still at large, dismantles the army's cover-up at the cost of his own career. Comfort historical-espionage thriller in the cold, procedural vein already loved, but a fresh author and theatre: meticulously sourced, propulsive, and unsentimental about institutional loyalty — straight to the legal-narrative and inference-under-pressure interest; winner of the Walter Scott Prize and the CWA Ian Fleming Steel Dagger.
+- **The 12.30 from Croydon** — Freeman Wills Crofts (1934). A retired manufacturer dies of cyanide on a flight from Croydon to Paris, and the novel is told almost entirely from the killer's side — his motive, his elaborate plan, his mounting dread — until the quietly relentless Inspector French takes it all apart. Golden-Age crime whose payload is structural and forensic: an inverted mystery built with Crofts's famous slide-rule precision about alibis and timetables, witty and unsentimental, and praised by Dorothy L. Sayers — a fresh author for a well-loved vein.
+
 ### 2026-W42
 
 **Highbrow**
