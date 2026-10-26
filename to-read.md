@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W44
+
+**Highbrow**
+- **Hopscotch** — Julio Cortázar (1963; Eng. trans. Gregory Rabassa, 1966). A fractured love story set between Paris and Buenos Aires that comes with a "Table of Instructions": read it straight through, or hopscotch between chapters in a second prescribed order that folds in dozens of "expendable" chapters of essays, jazz riffs and anti-novel manifesto. Translated Argentine literary fiction — the Borges/Calvino register the persona names, from a country the shelves have never held: formally strange to its very architecture, philosophically serious about chance, art and how a novel can be built, and coolly unsentimental; the landmark of the Latin American "Boom".
+- **Dhalgren** — Samuel R. Delany (1975). A drifter with no memory of his name walks into Bellona, an American city cut off from the world by an unnamed catastrophe where time, geography and the sky itself no longer behave, and the narration loops back on itself until the last sentence runs into the first. Literary New Wave SF at its most demanding — a growth edge well beyond the Golden Age: a vast, recursive, formally experimental novel about perception, language and the collapse of consensus reality, ideas-first and utterly unsentimental; one of the best-selling and most argued-over SF novels ever written.
+- **The Executioner's Song** — Norman Mailer (1979). The true story of Gary Gilmore, who murdered two men in Utah and then demanded the state carry out his own execution, reconstructed from thousands of interviews into a "true-life novel" that refuses to editorialise and simply lets a thousand voices build the case. Rigorous true crime in the forensic, legal-narrative register that connects the criminology background to how a justice system actually reasons and kills: formally strange (a documentary novel in two symmetrical halves), coldly unsentimental about everyone it touches, and winner of the Pulitzer Prize.
+
+**Lowbrow**
+- **More Than Human** — Theodore Sturgeon (1953). Six damaged outcasts — an idiot with a terrible gift, two teleporting twins, a baby who thinks like a computer — slowly "blesh" into a single composite organism, *Homo gestalt*, the next step after man, which then has to learn an ethics of its own. Comfort SF with real conceptual teeth from a fresh, foundational author: propulsive and strange, formally built as a triptych, ideas-first about what a mind and a morality even are, and unsentimental beneath the lyricism; winner of the International Fantasy Award.
+- **A Foreign Country** — Charles Cumming (2012). On the eve of becoming the first woman to run MI6, the Chief vanishes without trace, and a disgraced former officer is quietly brought back to find her before her secret does more damage than her disappearance. Comfort espionage in the cold, procedural le Carré vein but a fresh, contemporary author and a propulsive modern plot: tradecraft-dense, twisty and unsentimental about loyalty and the Service — winner of the CWA Ian Fleming Steel Dagger.
+- **The Singing Bone** — R. Austin Freeman (1912). Five cases of the forensic detective Dr Thorndyke, the first of which invented the "inverted" mystery: the reader watches the murder committed and concealed in full, then watches the scientist reason his way back to the truth from fibres, dust and a single telltale trace. Golden-Age crime whose whole payload is structural and forensic — the fair-play puzzle turned inside out, rigorous about evidence and inference, witty and unsentimental — from the fresh, foundational author who gave the genre one of its enduring forms.
+
 ### 2026-W43
 
 **Highbrow**
