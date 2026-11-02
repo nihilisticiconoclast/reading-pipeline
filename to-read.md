@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W45
+
+**Highbrow**
+- **The Street of Crocodiles** — Bruno Schulz (1934; Eng. trans. Celina Wieniewska, 1963). Interlinked sketches in which a boy's provincial Galician childhood is mythologised into cosmology: his father mutates into birds, cockroaches and a heap of dust, matter itself is heretically alive, and a cut-price commercial district becomes a zone where reality thins. Translated Polish-Jewish literary fiction, a tradition the shelves have never held: hallucinatory, formally strange, philosophically serious about time, matter and the imagination, and unsentimental beneath the baroque prose — the near-complete work of a writer murdered in 1942, now a cornerstone of European modernism.
+- **Aniara** — Harry Martinson (1956; Eng. trans.). A 103-canto verse epic: an evacuation ship carrying eight thousand refugees from a ruined Earth is knocked off course by an asteroid and falls forever into the empty dark, its passengers consoling themselves with a sentient computer, Mima, that shows them the worlds they have lost. Poetry into a near-empty shelf and a Swedish tradition it has never held, doubling as literary SF beyond the Golden Age: ideas-first about technology, despair and the indifference of deep space, formally disciplined, and utterly unconsoling — by the 1974 Nobel laureate.
+- **A History of the World in Twelve Maps** — Jerry Brotton (2012). Twelve maps, from Ptolemy and the medieval mappa mundi through al-Idrisi, Mercator and Google Earth, each read as an argument about where the centre of the world lies and who gets to draw it — so that a map is never a neutral picture but a claim about power, faith and knowledge. Narrative nonfiction in a fresh domain (the history of cartography and ideas): ideas-first, rigorously sourced, and cold-eyed about the politics buried in every projection.
+
+**Lowbrow**
+- **Dragon's Egg** — Robert L. Forward (1980). A neutron star drifts into the solar system carrying life on its crust — the cheela, who live a million times faster than humans, so that an entire civilisation rises from stone-age to starfaring across the few days a human crew hangs in orbit watching. Comfort hard SF built on one clean, vertiginous idea and worked out with a physicist's slide-rule rigour (Forward was a real gravitational physicist): propulsive, cool and unsentimental — a touchstone of the form, from a fresh author on the shelf.
+- **The Riddle of the Sands** — Erskine Childers (1903). Two Englishmen cruising a small yacht through the sandbanks and tidal channels of the Frisian coast stumble onto preparations for a seaborne invasion of England, and turn amateur spies against it. The foundational modern espionage novel — lean, cold and meticulous about tides, charts and tradecraft — a propulsive adventure in the well-loved vein from a fresh, foundational author (himself later executed for gun-running).
+- **The Wheel Spins** — Ethel Lina White (1936). On a long train journey across Europe a young Englishwoman befriends a dowdy governess who then simply vanishes — and every other passenger coolly insists the woman never existed, leaving her to prove a crime against a wall of denial. Golden-Age crime whose payload is epistemic and propulsive: a claustrophobic puzzle about evidence, gaslighting and who to believe, witty and unsentimental — the basis of Hitchcock's *The Lady Vanishes*, from a fresh author for a well-loved vein.
+
 ### 2026-W44
 
 **Highbrow**
