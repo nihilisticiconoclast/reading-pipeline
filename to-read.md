@@ -4,6 +4,18 @@
 
 <!-- routine appends here, newest first -->
 
+### 2026-W46
+
+**Highbrow**
+- **The Tartar Steppe** — Dino Buzzati (1940; Eng. trans. Stuart Hood, 1952). A young officer posted to a remote frontier fort pledges himself to the great enemy attack that is forever rumoured and never comes, and quietly lets it devour his whole life while he waits for the meaning that is always about to arrive. Translated Italian literary fiction, a tradition the shelves have never held: a cold, Kafkaesque parable in the *We* / *Palace of Dreams* register, formally patient and philosophically serious about time, hope and wasted life, and utterly unsentimental — the book that made Buzzati's name.
+- **People Who Eat Darkness** — Richard Lloyd Parry (2011). The disappearance of Lucie Blackman, a young British woman who vanished from the streets of Tokyo, reconstructed over a decade through the investigation, the trial and the bafflingly alien workings of Japanese justice, by a reporter who refuses every easy consolation. Rigorous true crime in the forensic, legal-narrative register that connects the criminology background to how a very different system reasons toward guilt: patient, formally restrained, and coldly unsentimental about victim, killer and court alike — shortlisted for the Orwell Prize.
+- **Classical Indian Philosophy** — Peter Adamson & Jonardon Ganeri (2020). A rigorous but accessible reconstruction of two and a half thousand years of Indian thought — the Nyāya logicians on knowledge and inference, the Buddhist and Jain challenges to the self, Advaita monism, the materialist Cārvāka — treated as live argument to be contested rather than doctrine to be received. Non-Western philosophy and epistemology at full rigour, exactly the strong secondary summary the persona prefers: ideas-first, precise, and opening a whole tradition of reasoning about evidence and the self the shelf has never touched (volume 5 of *A History of Philosophy Without Any Gaps*).
+
+**Lowbrow**
+- **Inverted World** — Christopher Priest (1974). The city of Earth is winched endlessly along railway tracks across a strange planet, its engineers forever laying rail ahead and tearing it up behind to chase a moving "optimum" — and no one aboard dares ask why, until a young apprentice follows the line far enough to see what the world actually is. Comfort SF built on one clean, vertiginous perceptual idea and a final twist that reorders everything before it: propulsive, cool and unsentimental — a BSFA winner and SF Masterwork, from a fresh author on the shelf.
+- **Restless** — William Boyd (2006). In 1976 a young woman learns that her mother was recruited in 1939 as a British agent spreading disinformation to drag America into the war — and has spent thirty years quietly certain that her old service is still coming to kill her. Comfort espionage in the cold, tradecraft-dense vein already loved, but a fresh author and a propulsive dual-timeline structure: elegant, twisty and unsentimental about loyalty and the long half-life of a secret — winner of the Costa Novel of the Year.
+- **Overture to Death** — Ngaio Marsh (1939). A village charity play got up to buy a new parish piano ends with a spinster shot dead at the opening chord by a pistol booby-trapped inside the instrument, and Inspector Alleyn must sift a parish thick with thwarted, poisonous respectability. Golden-Age crime at its most precisely engineered and quietly cruel — a fair-play puzzle turning on a single ingenious mechanical trick — from Ngaio Marsh, a Queen of Crime fresh to the shelf, witty and entirely unsentimental.
+
 ### 2026-W45
 
 **Highbrow**
